@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
     {
       "id": 1,
       "title": "How are you doing today?"
@@ -7,3 +8,5 @@
   "profile": {
     "name": "SignalsDemoData"
   }
+}
+
