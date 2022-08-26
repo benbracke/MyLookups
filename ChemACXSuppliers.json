@@ -1,4 +1,4 @@
-﻿{
+{
     "data": [
         {
             "SUPPLIERID": 429,
@@ -4440,7 +4440,7 @@
             "Supplier Shortname": "Apollo Fluorochem",
             "SUPPLIERCODE": "APFLU"
         }
-    ],
+],
     "paging": {
         "total": 740
     }
