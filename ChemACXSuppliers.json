@@ -1,0 +1,4444 @@
+﻿{
+    "data": [
+        {
+            "SUPPLIERID": 429,
+            "Supplier Name": "Apollo Scientific Ltd (Intermediates)",
+            "Supplier Shortname": "Apollo Intermediates",
+            "SUPPLIERCODE": "APINT"
+        },
+        {
+            "SUPPLIERID": 430,
+            "Supplier Name": "Apollo Scientific Ltd (Biochemicals)",
+            "Supplier Shortname": "Apollo Biochemicals",
+            "SUPPLIERCODE": "APBIO"
+        },
+        {
+            "SUPPLIERID": 431,
+            "Supplier Name": "Chess GmbH",
+            "Supplier Shortname": "Chess GmbH",
+            "SUPPLIERCODE": "CHESS"
+        },
+        {
+            "SUPPLIERID": 432,
+            "Supplier Name": "Synthonix Corporation",
+            "Supplier Shortname": "Synthonix Corp.",
+            "SUPPLIERCODE": "SYNTX"
+        },
+        {
+            "SUPPLIERID": 433,
+            "Supplier Name": "EMD Chemicals Inc.",
+            "Supplier Shortname": "EMD Chemicals Inc.",
+            "SUPPLIERCODE": "EMDUS"
+        },
+        {
+            "SUPPLIERID": 434,
+            "Supplier Name": "New Zealand Pharmaceuticals Limited",
+            "Supplier Shortname": "New Zealand Pharm",
+            "SUPPLIERCODE": "NZPLT"
+        },
+        {
+            "SUPPLIERID": 435,
+            "Supplier Name": "Enamine Ltd.",
+            "Supplier Shortname": "Enamine Ltd.",
+            "SUPPLIERCODE": "ENMNE"
+        },
+        {
+            "SUPPLIERID": 436,
+            "Supplier Name": "Frontier Scientific Services Inc.",
+            "Supplier Shortname": "FrontSciServ",
+            "SUPPLIERCODE": "FSSI"
+        },
+        {
+            "SUPPLIERID": 437,
+            "Supplier Name": "TOSlab",
+            "Supplier Shortname": "TOSlab",
+            "SUPPLIERCODE": "TOSLB"
+        },
+        {
+            "SUPPLIERID": 438,
+            "Supplier Name": "Arké Organics srl",
+            "Supplier Shortname": "Arké Organics",
+            "SUPPLIERCODE": "ARKEO"
+        },
+        {
+            "SUPPLIERID": 439,
+            "Supplier Name": "Specs Building Blocks",
+            "Supplier Shortname": "Specs",
+            "SUPPLIERCODE": "SPECS"
+        },
+        {
+            "SUPPLIERID": 440,
+            "Supplier Name": "Specs Natural Products",
+            "Supplier Shortname": "Specs Natl Prods",
+            "SUPPLIERCODE": "SPCNP"
+        },
+        {
+            "SUPPLIERID": 441,
+            "Supplier Name": "A&A Life Science Inc. dba AvaChem Scientific",
+            "Supplier Shortname": "AvaChem Scientific",
+            "SUPPLIERCODE": "AVCSC"
+        },
+        {
+            "SUPPLIERID": 442,
+            "Supplier Name": "Suzhou Sinoera Chemical Co., Ltd.",
+            "Supplier Shortname": "Sinoera Chemical",
+            "SUPPLIERCODE": "SINOE"
+        },
+        {
+            "SUPPLIERID": 443,
+            "Supplier Name": "KaïronKem",
+            "Supplier Shortname": "KaïronKem",
+            "SUPPLIERCODE": "KAKEM"
+        },
+        {
+            "SUPPLIERID": 444,
+            "Supplier Name": "Lanxess AG",
+            "Supplier Shortname": "Lanxess AG",
+            "SUPPLIERCODE": "LANXS"
+        },
+        {
+            "SUPPLIERID": 445,
+            "Supplier Name": "Greatfield Mineral and Chemical Inc.",
+            "Supplier Shortname": "Greatfield Mineral",
+            "SUPPLIERCODE": "GTMNL"
+        },
+        {
+            "SUPPLIERID": 446,
+            "Supplier Name": "Shanghai Rongkang Fine Chemical Co., Ltd",
+            "Supplier Shortname": "Shanghai Rongkang",
+            "SUPPLIERCODE": "SRNKG"
+        },
+        {
+            "SUPPLIERID": 447,
+            "Supplier Name": "Rohm & Haas Process Chemicals",
+            "Supplier Shortname": "Rohm & Haas",
+            "SUPPLIERCODE": "RHPRC"
+        },
+        {
+            "SUPPLIERID": 448,
+            "Supplier Name": "Bridge Organics Co.",
+            "Supplier Shortname": "Bridge Organics",
+            "SUPPLIERCODE": "BRDGE"
+        },
+        {
+            "SUPPLIERID": 449,
+            "Supplier Name": "Key Molecular Corporation",
+            "Supplier Shortname": "Key Molecular Corp.",
+            "SUPPLIERCODE": "KEYMC"
+        },
+        {
+            "SUPPLIERID": 450,
+            "Supplier Name": "General Intermediates of Canada",
+            "Supplier Shortname": "General Intermeds",
+            "SUPPLIERCODE": "GENIN"
+        },
+        {
+            "SUPPLIERID": 451,
+            "Supplier Name": "Ascent Scientific",
+            "Supplier Shortname": "Ascent Scientific",
+            "SUPPLIERCODE": "ASCNT"
+        },
+        {
+            "SUPPLIERID": 452,
+            "Supplier Name": "VWR International GmbH",
+            "Supplier Shortname": "VWR Intl GmbH",
+            "SUPPLIERCODE": "VWRDE"
+        },
+        {
+            "SUPPLIERID": 453,
+            "Supplier Name": "Sigma-Aldrich Brand Chemicals",
+            "Supplier Shortname": "Sigma-Aldrich Brand",
+            "SUPPLIERCODE": "SBRND"
+        },
+        {
+            "SUPPLIERID": 454,
+            "Supplier Name": "CGeneTech, Inc.",
+            "Supplier Shortname": "CGeneTech, Inc.",
+            "SUPPLIERCODE": "CGENE"
+        },
+        {
+            "SUPPLIERID": 455,
+            "Supplier Name": "Axitec Co., Ltd",
+            "Supplier Shortname": "Axitec Co., Ltd",
+            "SUPPLIERCODE": "AXITE"
+        },
+        {
+            "SUPPLIERID": 456,
+            "Supplier Name": "Sichuan Tongsheng Amino acid Co., Ltd",
+            "Supplier Shortname": "Sichuan",
+            "SUPPLIERCODE": "Sichu"
+        },
+        {
+            "SUPPLIERID": 457,
+            "Supplier Name": "The New Century Chemical & Pharmaceutical Enterprise",
+            "Supplier Shortname": "The New Century",
+            "SUPPLIERCODE": "Newce"
+        },
+        {
+            "SUPPLIERID": 458,
+            "Supplier Name": "Otava",
+            "Supplier Shortname": "Otava",
+            "SUPPLIERCODE": "OTAVA"
+        },
+        {
+            "SUPPLIERID": 459,
+            "Supplier Name": "Aims Fine Chemicals Inc.",
+            "Supplier Shortname": "Aims Fine Chemicals",
+            "SUPPLIERCODE": "AIMSF"
+        },
+        {
+            "SUPPLIERID": 460,
+            "Supplier Name": "HetCat",
+            "Supplier Shortname": "HetCat",
+            "SUPPLIERCODE": "HETCT"
+        },
+        {
+            "SUPPLIERID": 461,
+            "Supplier Name": "3RChem",
+            "Supplier Shortname": "3RChem",
+            "SUPPLIERCODE": "3RCHE"
+        },
+        {
+            "SUPPLIERID": 462,
+            "Supplier Name": "Iris Biotech GmbH",
+            "Supplier Shortname": "Iris Biotech",
+            "SUPPLIERCODE": "IRISB"
+        },
+        {
+            "SUPPLIERID": 463,
+            "Supplier Name": "Butt Park Ltd",
+            "Supplier Shortname": "Butt Park Ltd",
+            "SUPPLIERCODE": "BTTPK"
+        },
+        {
+            "SUPPLIERID": 464,
+            "Supplier Name": "American Custom Chemicals Corporation",
+            "Supplier Shortname": "ACC Corp.",
+            "SUPPLIERCODE": "ACCCP"
+        },
+        {
+            "SUPPLIERID": 465,
+            "Supplier Name": "Bewe Leepharma Inc.",
+            "Supplier Shortname": "Bewe Leepharma",
+            "SUPPLIERCODE": "BWLEE"
+        },
+        {
+            "SUPPLIERID": 466,
+            "Supplier Name": "NeoMPS, Inc.",
+            "Supplier Shortname": "NeoMPS",
+            "SUPPLIERCODE": "NeoMP"
+        },
+        {
+            "SUPPLIERID": 467,
+            "Supplier Name": "Arylchem Co.",
+            "Supplier Shortname": "Arylchem Co.",
+            "SUPPLIERCODE": "ARYLC"
+        },
+        {
+            "SUPPLIERID": 468,
+            "Supplier Name": "AQChem LLC",
+            "Supplier Shortname": "AQChem LLC",
+            "SUPPLIERCODE": "AQCHM"
+        },
+        {
+            "SUPPLIERID": 227,
+            "Supplier Name": "FTech, Inc.",
+            "Supplier Shortname": "Ftech",
+            "SUPPLIERCODE": "FTEK"
+        },
+        {
+            "SUPPLIERID": 768,
+            "Supplier Name": "Accela ChemBio Co., Ltd.",
+            "Supplier Shortname": "Accela chem",
+            "SUPPLIERCODE": "Accel"
+        },
+        {
+            "SUPPLIERID": 469,
+            "Supplier Name": "Advanced Asymmetrics, Inc.",
+            "Supplier Shortname": "Advanced Asymmetrics",
+            "SUPPLIERCODE": "AASYM"
+        },
+        {
+            "SUPPLIERID": 225,
+            "Supplier Name": "Spectrum Chemical & Laboratory Products",
+            "Supplier Shortname": "Spectrum",
+            "SUPPLIERCODE": "SPKTM"
+        },
+        {
+            "SUPPLIERID": 226,
+            "Supplier Name": "Chattem Chemicals, Inc.",
+            "Supplier Shortname": "Chattem",
+            "SUPPLIERCODE": "CHAT"
+        },
+        {
+            "SUPPLIERID": 228,
+            "Supplier Name": "Romil Ltd",
+            "Supplier Shortname": "Romil",
+            "SUPPLIERCODE": "ROMIL"
+        },
+        {
+            "SUPPLIERID": 229,
+            "Supplier Name": "Taizhou Kangduo Sea Biochemical & Pharmaceutical Co. Ltd.",
+            "Supplier Shortname": "Taizhou",
+            "SUPPLIERCODE": "TAIZH"
+        },
+        {
+            "SUPPLIERID": 230,
+            "Supplier Name": "MP Biomedicals (formerly ICN Biomedicals, Inc.)",
+            "Supplier Shortname": "MP Biomed",
+            "SUPPLIERCODE": "MPB"
+        },
+        {
+            "SUPPLIERID": 231,
+            "Supplier Name": "Soltec Ventures, Inc.",
+            "Supplier Shortname": "Soltec",
+            "SUPPLIERCODE": "SOLTK"
+        },
+        {
+            "SUPPLIERID": 232,
+            "Supplier Name": "Stanford Materials Company",
+            "Supplier Shortname": "Stanford",
+            "SUPPLIERCODE": "STNFD"
+        },
+        {
+            "SUPPLIERID": 237,
+            "Supplier Name": "Riedel-de Haën",
+            "Supplier Shortname": "Riedel",
+            "SUPPLIERCODE": "RDH"
+        },
+        {
+            "SUPPLIERID": 238,
+            "Supplier Name": "Laporte Performance Chemicals  (Formerly Inspec Group)",
+            "Supplier Shortname": "Laporte",
+            "SUPPLIERCODE": "LPORT"
+        },
+        {
+            "SUPPLIERID": 239,
+            "Supplier Name": "Lyondell Chemical Company (formerly ARCO Chemical Company)",
+            "Supplier Shortname": "Lyondell",
+            "SUPPLIERCODE": "LYNDL"
+        },
+        {
+            "SUPPLIERID": 240,
+            "Supplier Name": "Synthon Chiragenics Corporation",
+            "Supplier Shortname": "Synthon",
+            "SUPPLIERCODE": "SYNTN"
+        },
+        {
+            "SUPPLIERID": 243,
+            "Supplier Name": "AppliChem",
+            "Supplier Shortname": "Applichem",
+            "SUPPLIERCODE": "APPL"
+        },
+        {
+            "SUPPLIERID": 244,
+            "Supplier Name": "Sigma Chemical Company",
+            "Supplier Shortname": "Sigma",
+            "SUPPLIERCODE": "SIGMA"
+        },
+        {
+            "SUPPLIERID": 245,
+            "Supplier Name": "Sigma Aldrich Library of Rare Chemicals",
+            "Supplier Shortname": "RCLSALOR",
+            "SUPPLIERCODE": "RCL"
+        },
+        {
+            "SUPPLIERID": 246,
+            "Supplier Name": "Orion Corporation Fermion",
+            "Supplier Shortname": "Orion",
+            "SUPPLIERCODE": "ORI"
+        },
+        {
+            "SUPPLIERID": 247,
+            "Supplier Name": "Penn Specialty Chemicals, Inc.",
+            "Supplier Shortname": "PennChem",
+            "SUPPLIERCODE": "PENNC"
+        },
+        {
+            "SUPPLIERID": 248,
+            "Supplier Name": "Occidental Petroleum Corporation",
+            "Supplier Shortname": "OxyChem",
+            "SUPPLIERCODE": "Oxy"
+        },
+        {
+            "SUPPLIERID": 249,
+            "Supplier Name": "American Advanced Organics (div of Albany Molecular)",
+            "Supplier Shortname": "AmAdvOrg",
+            "SUPPLIERCODE": "AmAdv"
+        },
+        {
+            "SUPPLIERID": 250,
+            "Supplier Name": "SKW Chemicals",
+            "Supplier Shortname": "SKW Chemicals",
+            "SUPPLIERCODE": "SKWCh"
+        },
+        {
+            "SUPPLIERID": 251,
+            "Supplier Name": "Fabbrica Italiana Sintetici",
+            "Supplier Shortname": "FabbrItal",
+            "SUPPLIERCODE": "FIS"
+        },
+        {
+            "SUPPLIERID": 252,
+            "Supplier Name": "Osaka Organic Chemical Industry, Ltd.",
+            "Supplier Shortname": "Osaka Organics",
+            "SUPPLIERCODE": "OsOrg"
+        },
+        {
+            "SUPPLIERID": 253,
+            "Supplier Name": "Calaire Chimie s.a.",
+            "Supplier Shortname": "Calaire",
+            "SUPPLIERCODE": "CalCh"
+        },
+        {
+            "SUPPLIERID": 254,
+            "Supplier Name": "Angus Chemical Company",
+            "Supplier Shortname": "Angus Chemical",
+            "SUPPLIERCODE": "Angus"
+        },
+        {
+            "SUPPLIERID": 255,
+            "Supplier Name": "Antibioticos SPA",
+            "Supplier Shortname": "Antibioticos",
+            "SUPPLIERCODE": "ANTIB"
+        },
+        {
+            "SUPPLIERID": 256,
+            "Supplier Name": "Marshallton Research Laboratories, Inc.",
+            "Supplier Shortname": "Marshallton",
+            "SUPPLIERCODE": "MARSH"
+        },
+        {
+            "SUPPLIERID": 257,
+            "Supplier Name": "Aviabor Fine Boron Compounds",
+            "Supplier Shortname": "Aviabor",
+            "SUPPLIERCODE": "Aviab"
+        },
+        {
+            "SUPPLIERID": 258,
+            "Supplier Name": "Bright Evergreen",
+            "Supplier Shortname": "Bright Evergreen",
+            "SUPPLIERCODE": "BRIEV"
+        },
+        {
+            "SUPPLIERID": 259,
+            "Supplier Name": "Chemada",
+            "Supplier Shortname": "Chemada",
+            "SUPPLIERCODE": "CHMDA"
+        },
+        {
+            "SUPPLIERID": 260,
+            "Supplier Name": "Bayer Inorganics",
+            "Supplier Shortname": "Bayer Inroganics",
+            "SUPPLIERCODE": "BAYIN"
+        },
+        {
+            "SUPPLIERID": 261,
+            "Supplier Name": "CMS Chemicals Ltd -- Organics",
+            "Supplier Shortname": "CMS Organics",
+            "SUPPLIERCODE": "CMSOR"
+        },
+        {
+            "SUPPLIERID": 262,
+            "Supplier Name": "CMS Chemicals Ltd -- Carbohydrates",
+            "Supplier Shortname": "CMS Carbohydrates",
+            "SUPPLIERCODE": "CMSCA"
+        },
+        {
+            "SUPPLIERID": 263,
+            "Supplier Name": "Pfanstiehl Laboratories, Inc.",
+            "Supplier Shortname": "Pfanstiehl",
+            "SUPPLIERCODE": "PFANS"
+        },
+        {
+            "SUPPLIERID": 264,
+            "Supplier Name": "Farchemia Division of Tessenderlo Chemie",
+            "Supplier Shortname": "Farchemia",
+            "SUPPLIERCODE": "FCTES"
+        },
+        {
+            "SUPPLIERID": 265,
+            "Supplier Name": "Jupiter Biosciences Ltd",
+            "Supplier Shortname": "Jupiter Biosciences",
+            "SUPPLIERCODE": "JUPOR"
+        },
+        {
+            "SUPPLIERID": 266,
+            "Supplier Name": "Laboratori MAG spa",
+            "Supplier Shortname": "Lab MAG",
+            "SUPPLIERCODE": "LABMG"
+        },
+        {
+            "SUPPLIERID": 267,
+            "Supplier Name": "MacFarlan Smith",
+            "Supplier Shortname": "MacFarlan Smith",
+            "SUPPLIERCODE": "MACSM"
+        },
+        {
+            "SUPPLIERID": 268,
+            "Supplier Name": "Farmak, a.s.",
+            "Supplier Shortname": "Farmak",
+            "SUPPLIERCODE": "FRMAK"
+        },
+        {
+            "SUPPLIERID": 269,
+            "Supplier Name": "Toray Industries, Inc.",
+            "Supplier Shortname": "Toray",
+            "SUPPLIERCODE": "TORAY"
+        },
+        {
+            "SUPPLIERID": 270,
+            "Supplier Name": "Yuhan Corporation",
+            "Supplier Shortname": "Yuhan Corp.",
+            "SUPPLIERCODE": "YUHAN"
+        },
+        {
+            "SUPPLIERID": 271,
+            "Supplier Name": "Zeon Corporation, Ltd.",
+            "Supplier Shortname": "Zeon",
+            "SUPPLIERCODE": "ZEONC"
+        },
+        {
+            "SUPPLIERID": 272,
+            "Supplier Name": "Amresco Inc.",
+            "Supplier Shortname": "Amresco",
+            "SUPPLIERCODE": "AMRES"
+        },
+        {
+            "SUPPLIERID": 273,
+            "Supplier Name": "Molecular Probes, Inc.",
+            "Supplier Shortname": "Molecular Probes",
+            "SUPPLIERCODE": "PROBE"
+        },
+        {
+            "SUPPLIERID": 274,
+            "Supplier Name": "Mitsubishi Rayon Co., Ltd.",
+            "Supplier Shortname": "Mitsubishi Rayon",
+            "SUPPLIERCODE": "MRAYO"
+        },
+        {
+            "SUPPLIERID": 275,
+            "Supplier Name": "Morre-Tec Industries, Inc.",
+            "Supplier Shortname": "Morre-Tec",
+            "SUPPLIERCODE": "MORRE"
+        },
+        {
+            "SUPPLIERID": 276,
+            "Supplier Name": "Precursor Chemicals, Inc.",
+            "Supplier Shortname": "Precursor",
+            "SUPPLIERCODE": "PRECU"
+        },
+        {
+            "SUPPLIERID": 771,
+            "Supplier Name": "Arctom Chemicals",
+            "Supplier Shortname": "Arctom",
+            "SUPPLIERCODE": "Arcto"
+        },
+        {
+            "SUPPLIERID": 277,
+            "Supplier Name": "SynQuest Laboratories, Inc.",
+            "Supplier Shortname": "SynQuest Labs",
+            "SUPPLIERCODE": "SYNQL"
+        },
+        {
+            "SUPPLIERID": 470,
+            "Supplier Name": "Tecoland Corporation",
+            "Supplier Shortname": "Tecoland Corporation",
+            "SUPPLIERCODE": "TECOL"
+        },
+        {
+            "SUPPLIERID": 471,
+            "Supplier Name": "Syntastic AB",
+            "Supplier Shortname": "Syntastic AB",
+            "SUPPLIERCODE": "SYNAB"
+        },
+        {
+            "SUPPLIERID": 472,
+            "Supplier Name": "Advanced Scientific International, LLC",
+            "Supplier Shortname": "Advanced Sci Intl",
+            "SUPPLIERCODE": "ASILL"
+        },
+        {
+            "SUPPLIERID": 473,
+            "Supplier Name": "Winner Group International Ltd",
+            "Supplier Shortname": "Winner Group",
+            "SUPPLIERCODE": "WNGRP"
+        },
+        {
+            "SUPPLIERID": 474,
+            "Supplier Name": "IAN Heterocycle Co., Ltd.",
+            "Supplier Shortname": "IAN Heterocycle",
+            "SUPPLIERCODE": "IANHC"
+        },
+        {
+            "SUPPLIERID": 475,
+            "Supplier Name": "Milestone PharmTech LLC",
+            "Supplier Shortname": "Milestone PharmTech",
+            "SUPPLIERCODE": "MSTPT"
+        },
+        {
+            "SUPPLIERID": 476,
+            "Supplier Name": "ChemBridge Corporation Building Blocks",
+            "Supplier Shortname": "ChemBridge Corp.BB",
+            "SUPPLIERCODE": "CHMBR"
+        },
+        {
+            "SUPPLIERID": 477,
+            "Supplier Name": "Civenti Chem",
+            "Supplier Shortname": "Civenti",
+            "SUPPLIERCODE": "Civen"
+        },
+        {
+            "SUPPLIERID": 478,
+            "Supplier Name": "BE-Associates, LLC",
+            "Supplier Shortname": "BE-Associates, LLC",
+            "SUPPLIERCODE": "BELLC"
+        },
+        {
+            "SUPPLIERID": 479,
+            "Supplier Name": "Augustus Oils Ltd",
+            "Supplier Shortname": "Augustus Oils Ltd",
+            "SUPPLIERCODE": "AUGOL"
+        },
+        {
+            "SUPPLIERID": 482,
+            "Supplier Name": "ChemFocus, LLC",
+            "Supplier Shortname": "ChemFocus, LLC",
+            "SUPPLIERCODE": "CFOCS"
+        },
+        {
+            "SUPPLIERID": 483,
+            "Supplier Name": "Sunshine Chemicals Company",
+            "Supplier Shortname": "Sunshine Chemicals",
+            "SUPPLIERCODE": "SUNCH"
+        },
+        {
+            "SUPPLIERID": 484,
+            "Supplier Name": "Gwalior Chemical Industries Ltd.",
+            "Supplier Shortname": "Gwalior Chem Ltd",
+            "SUPPLIERCODE": "GWALI"
+        },
+        {
+            "SUPPLIERID": 485,
+            "Supplier Name": "Manchester Organics Ltd",
+            "Supplier Shortname": "Manchester Organics",
+            "SUPPLIERCODE": "MOLTD"
+        },
+        {
+            "SUPPLIERID": 486,
+            "Supplier Name": "CNH Technologies, Inc.",
+            "Supplier Shortname": "CNH Technologies",
+            "SUPPLIERCODE": "CNHTK"
+        },
+        {
+            "SUPPLIERID": 487,
+            "Supplier Name": "Suzhou Yield Pharmaceutical R&D Co.,LTD",
+            "Supplier Shortname": "Suzhou Yield Pharma",
+            "SUPPLIERCODE": "suzho"
+        },
+        {
+            "SUPPLIERID": 488,
+            "Supplier Name": "Zhejiang Ouhua Chemical Imp.&Exp. Co.,Ltd",
+            "Supplier Shortname": "Zhejiang Ouhua",
+            "SUPPLIERCODE": "Ouhua"
+        },
+        {
+            "SUPPLIERID": 489,
+            "Supplier Name": "Junsei Chemical Co., Ltd",
+            "Supplier Shortname": "Junsei",
+            "SUPPLIERCODE": "junse"
+        },
+        {
+            "SUPPLIERID": 490,
+            "Supplier Name": "Kishida Chemical Co., Ltd",
+            "Supplier Shortname": "Kishida",
+            "SUPPLIERCODE": "kishi"
+        },
+        {
+            "SUPPLIERID": 491,
+            "Supplier Name": "Nacalai Tesque Inc",
+            "Supplier Shortname": "Nacalai",
+            "SUPPLIERCODE": "Nacal"
+        },
+        {
+            "SUPPLIERID": 492,
+            "Supplier Name": "Hangzhou Pharma & Chem. Co. Ltd",
+            "Supplier Shortname": "Hangzhou Pharma",
+            "SUPPLIERCODE": "Hangz"
+        },
+        {
+            "SUPPLIERID": 493,
+            "Supplier Name": "Advanced Molecular Technologies Pty Ltd",
+            "Supplier Shortname": "Advanced Mol Tech",
+            "SUPPLIERCODE": "ADMTH"
+        },
+        {
+            "SUPPLIERID": 494,
+            "Supplier Name": "Pratap Organics",
+            "Supplier Shortname": "Pratap Organics",
+            "SUPPLIERCODE": "PRTAP"
+        },
+        {
+            "SUPPLIERID": 495,
+            "Supplier Name": "ASW MedChem, Inc.",
+            "Supplier Shortname": "ASW MedChem",
+            "SUPPLIERCODE": "ASWMC"
+        },
+        {
+            "SUPPLIERID": 496,
+            "Supplier Name": "Balaji Amines Ltd",
+            "Supplier Shortname": "Balaji Amines Ltd",
+            "SUPPLIERCODE": "BALAJ"
+        },
+        {
+            "SUPPLIERID": 497,
+            "Supplier Name": "Chemivate Limited",
+            "Supplier Shortname": "Chemivate Limited",
+            "SUPPLIERCODE": "CMVTL"
+        },
+        {
+            "SUPPLIERID": 498,
+            "Supplier Name": "Nanjing Daxian Chemical Institute Ltd.",
+            "Supplier Shortname": "Nanjing Daxian Inst",
+            "SUPPLIERCODE": "NJDXI"
+        },
+        {
+            "SUPPLIERID": 499,
+            "Supplier Name": "Shanghai Reito Chemical Technology Co., Ltd.",
+            "Supplier Shortname": "Shanghai Reito Chem",
+            "SUPPLIERCODE": "SHREI"
+        },
+        {
+            "SUPPLIERID": 500,
+            "Supplier Name": "Shanghai FWD Chemcials Co., Ltd.",
+            "Supplier Shortname": "Shangai FWD Chemical",
+            "SUPPLIERCODE": "SHFWD"
+        },
+        {
+            "SUPPLIERID": 501,
+            "Supplier Name": "MolBridge",
+            "Supplier Shortname": "MolBridge",
+            "SUPPLIERCODE": "MLBRD"
+        },
+        {
+            "SUPPLIERID": 502,
+            "Supplier Name": "YuanHong Sinochemical",
+            "Supplier Shortname": "YuanHong Sinochem",
+            "SUPPLIERCODE": "YHSCH"
+        },
+        {
+            "SUPPLIERID": 503,
+            "Supplier Name": "Polyorganix, Inc.",
+            "Supplier Shortname": "Polyorganix, Inc.",
+            "SUPPLIERCODE": "PLORG"
+        },
+        {
+            "SUPPLIERID": 504,
+            "Supplier Name": "Esstech, Inc.",
+            "Supplier Shortname": "Esstech, Inc.",
+            "SUPPLIERCODE": "ESSTC"
+        },
+        {
+            "SUPPLIERID": 505,
+            "Supplier Name": "Melford Laboratories Ltd.",
+            "Supplier Shortname": "Melford Labs Ltd.",
+            "SUPPLIERCODE": "MLFRD"
+        },
+        {
+            "SUPPLIERID": 506,
+            "Supplier Name": "Activate Scientific GmbH",
+            "Supplier Shortname": "Activate Scientific",
+            "SUPPLIERCODE": "ACTSC"
+        },
+        {
+            "SUPPLIERID": 507,
+            "Supplier Name": "Bosche Scientific LLC",
+            "Supplier Shortname": "Bosche Scientific",
+            "SUPPLIERCODE": "BSCHE"
+        },
+        {
+            "SUPPLIERID": 508,
+            "Supplier Name": "Wuhan Zhongfu Bio-Tech Co., Ltd.",
+            "Supplier Shortname": "Wuhan Zhongfu",
+            "SUPPLIERCODE": "WUZHO"
+        },
+        {
+            "SUPPLIERID": 509,
+            "Supplier Name": "Greenchem USA",
+            "Supplier Shortname": "Green Chempharma",
+            "SUPPLIERCODE": "Green"
+        },
+        {
+            "SUPPLIERID": 510,
+            "Supplier Name": "Sensachem, Inc.",
+            "Supplier Shortname": "SensaChem",
+            "SUPPLIERCODE": "Sensa"
+        },
+        {
+            "SUPPLIERID": 511,
+            "Supplier Name": "InFarmatik, Inc.",
+            "Supplier Shortname": "InFarmatik, Inc.",
+            "SUPPLIERCODE": "INFRM"
+        },
+        {
+            "SUPPLIERID": 512,
+            "Supplier Name": "CombiPhos Catalysts, Inc.",
+            "Supplier Shortname": "CombiPhos Catalysts",
+            "SUPPLIERCODE": "CPHOS"
+        },
+        {
+            "SUPPLIERID": 513,
+            "Supplier Name": "G&J Research Chemicals Ltd.",
+            "Supplier Shortname": "GJChem",
+            "SUPPLIERCODE": "Gjche"
+        },
+        {
+            "SUPPLIERID": 514,
+            "Supplier Name": "Viwit Pharmatech Co., Ltd.",
+            "Supplier Shortname": "Viwit Pharmatech",
+            "SUPPLIERCODE": "VIWIT"
+        },
+        {
+            "SUPPLIERID": 515,
+            "Supplier Name": "Jiangsu Zhongdan Chemical Imp.& Exp. Co., Ltd.",
+            "Supplier Shortname": "Jiangsu Zhongdan",
+            "SUPPLIERCODE": "JGSDC"
+        },
+        {
+            "SUPPLIERID": 516,
+            "Supplier Name": "Advanced Technology & Industrial Co., Ltd.",
+            "Supplier Shortname": "Adv Tech Ind",
+            "SUPPLIERCODE": "ADVTC"
+        },
+        {
+            "SUPPLIERID": 517,
+            "Supplier Name": "Shanghai PI Chemicals Ltd.",
+            "Supplier Shortname": "Shangai",
+            "SUPPLIERCODE": "Shang"
+        },
+        {
+            "SUPPLIERID": 518,
+            "Supplier Name": "Fisher Scientific UK",
+            "Supplier Shortname": "Fisher Sci UK",
+            "SUPPLIERCODE": "FSHUK"
+        },
+        {
+            "SUPPLIERID": 519,
+            "Supplier Name": "Hexagon Labs Inc.",
+            "Supplier Shortname": "Hexagon",
+            "SUPPLIERCODE": "HEXAG"
+        },
+        {
+            "SUPPLIERID": 520,
+            "Supplier Name": "Astar Pharmaceuticals, LLC",
+            "Supplier Shortname": "Astar pharma",
+            "SUPPLIERCODE": "Astar"
+        },
+        {
+            "SUPPLIERID": 521,
+            "Supplier Name": "Luknova Inc",
+            "Supplier Shortname": "Luknova",
+            "SUPPLIERCODE": "Luck"
+        },
+        {
+            "SUPPLIERID": 522,
+            "Supplier Name": "BoroChem",
+            "Supplier Shortname": "Borochem",
+            "SUPPLIERCODE": "Boroc"
+        },
+        {
+            "SUPPLIERID": 523,
+            "Supplier Name": "Texas Biochemicals Inc. (nanomaterial specialists)",
+            "Supplier Shortname": "Texas Biochem",
+            "SUPPLIERCODE": "TXBCM"
+        },
+        {
+            "SUPPLIERID": 524,
+            "Supplier Name": "Novelkore",
+            "Supplier Shortname": "Novelkore",
+            "SUPPLIERCODE": "Novel"
+        },
+        {
+            "SUPPLIERID": 525,
+            "Supplier Name": "Parkway Scientific LLC",
+            "Supplier Shortname": "ParkWay",
+            "SUPPLIERCODE": "Parkw"
+        },
+        {
+            "SUPPLIERID": 526,
+            "Supplier Name": "ProChem, Inc.",
+            "Supplier Shortname": "Prochem",
+            "SUPPLIERCODE": "proch"
+        },
+        {
+            "SUPPLIERID": 527,
+            "Supplier Name": "Syntech Solution",
+            "Supplier Shortname": "Syntech",
+            "SUPPLIERCODE": "Synte"
+        },
+        {
+            "SUPPLIERID": 528,
+            "Supplier Name": "Haiso PharmChem",
+            "Supplier Shortname": "Haiso PharmaChem",
+            "SUPPLIERCODE": "HSPHC"
+        },
+        {
+            "SUPPLIERID": 529,
+            "Supplier Name": "Ryan Scientific, Inc.",
+            "Supplier Shortname": "Ryan Scientific",
+            "SUPPLIERCODE": "RYANS"
+        },
+        {
+            "SUPPLIERID": 530,
+            "Supplier Name": "Dalton Pharma Services Inc.",
+            "Supplier Shortname": "Dalton Pharma",
+            "SUPPLIERCODE": "DLTNP"
+        },
+        {
+            "SUPPLIERID": 532,
+            "Supplier Name": "Exclusive Chemistry Ltd",
+            "Supplier Shortname": "Exclusive Chem",
+            "SUPPLIERCODE": "EXCLC"
+        },
+        {
+            "SUPPLIERID": 533,
+            "Supplier Name": "Chemizon Inc.",
+            "Supplier Shortname": "Chemizon Inc.",
+            "SUPPLIERCODE": "CZONI"
+        },
+        {
+            "SUPPLIERID": 278,
+            "Supplier Name": "Prodotti Chimici e Alimentari SPA",
+            "Supplier Shortname": "Prodotti Chimici",
+            "SUPPLIERCODE": "PRDCA"
+        },
+        {
+            "SUPPLIERID": 279,
+            "Supplier Name": "RCA KG (Reuter Chemische Apparatebau KG)",
+            "Supplier Shortname": "Reuter Chemie",
+            "SUPPLIERCODE": "RCAKG"
+        },
+        {
+            "SUPPLIERID": 280,
+            "Supplier Name": "Wujin Linchuan Chemical Factory",
+            "Supplier Shortname": "Wujin Chemical",
+            "SUPPLIERCODE": "WUJIN"
+        },
+        {
+            "SUPPLIERID": 281,
+            "Supplier Name": "Taoka Chemical Co., Ltd.",
+            "Supplier Shortname": "Taoka Chemical",
+            "SUPPLIERCODE": "TAOKA"
+        },
+        {
+            "SUPPLIERID": 282,
+            "Supplier Name": "Yamakawa Chemical",
+            "Supplier Shortname": "Yamakawa",
+            "SUPPLIERCODE": "YAMCH"
+        },
+        {
+            "SUPPLIERID": 283,
+            "Supplier Name": "Pharmaceutical Works Polpharma S.A.",
+            "Supplier Shortname": "Polpharma",
+            "SUPPLIERCODE": "POLPH"
+        },
+        {
+            "SUPPLIERID": 284,
+            "Supplier Name": "Dannier Chemical, Inc.",
+            "Supplier Shortname": "Dannier Chemical",
+            "SUPPLIERCODE": "DNIER"
+        },
+        {
+            "SUPPLIERID": 285,
+            "Supplier Name": "Syntesia Chemie GmbH",
+            "Supplier Shortname": "Syntesia",
+            "SUPPLIERCODE": "SNTGH"
+        },
+        {
+            "SUPPLIERID": 286,
+            "Supplier Name": "Reliable Biopharmaceutical Corporation",
+            "Supplier Shortname": "Reliable Biopharm",
+            "SUPPLIERCODE": "RELBP"
+        },
+        {
+            "SUPPLIERID": 287,
+            "Supplier Name": "Varsal Instruments, Inc.",
+            "Supplier Shortname": "Varsal Instruments",
+            "SUPPLIERCODE": "VRSAL"
+        },
+        {
+            "SUPPLIERID": 288,
+            "Supplier Name": "Samchully Pharmacy Company, Ltd.",
+            "Supplier Shortname": "Samchully Pharm",
+            "SUPPLIERCODE": "SAMCH"
+        },
+        {
+            "SUPPLIERID": 289,
+            "Supplier Name": "Supriya Chemicals",
+            "Supplier Shortname": "Supriya Chemicals",
+            "SUPPLIERCODE": "SPRYA"
+        },
+        {
+            "SUPPLIERID": 290,
+            "Supplier Name": "Teva Group API Division",
+            "Supplier Shortname": "Teva API",
+            "SUPPLIERCODE": "TEVA"
+        },
+        {
+            "SUPPLIERID": 291,
+            "Supplier Name": "Senn Chemicals",
+            "Supplier Shortname": "Senn Chemicals",
+            "SUPPLIERCODE": "SENNC"
+        },
+        {
+            "SUPPLIERID": 292,
+            "Supplier Name": "Schering AG",
+            "Supplier Shortname": "Schering AG",
+            "SUPPLIERCODE": "SCHER"
+        },
+        {
+            "SUPPLIERID": 293,
+            "Supplier Name": "Ernesto Ventos S.A.",
+            "Supplier Shortname": "Ernesto Ventos",
+            "SUPPLIERCODE": "EVSA"
+        },
+        {
+            "SUPPLIERID": 294,
+            "Supplier Name": "Kanto Chemical Co., Inc.",
+            "Supplier Shortname": "Kanto Chemical",
+            "SUPPLIERCODE": "KANTO"
+        },
+        {
+            "SUPPLIERID": 295,
+            "Supplier Name": "Matrix Scientific",
+            "Supplier Shortname": "Matrix Scientific",
+            "SUPPLIERCODE": "MATRX"
+        },
+        {
+            "SUPPLIERID": 296,
+            "Supplier Name": "Sumikin Chemical Co. Ltd.",
+            "Supplier Shortname": "Sumikin Chemical",
+            "SUPPLIERCODE": "SUMIK"
+        },
+        {
+            "SUPPLIERID": 297,
+            "Supplier Name": "Tokuyama Corporation",
+            "Supplier Shortname": "Tokuyama Corp.",
+            "SUPPLIERCODE": "TOKUY"
+        },
+        {
+            "SUPPLIERID": 298,
+            "Supplier Name": "Poli Industria Chimica S.P.A.",
+            "Supplier Shortname": "Poli Chem",
+            "SUPPLIERCODE": "POLCH"
+        },
+        {
+            "SUPPLIERID": 299,
+            "Supplier Name": "Metall-Chemie Goerrig GmbH & Co. KG",
+            "Supplier Shortname": "MC Goerrig",
+            "SUPPLIERCODE": "MCGOE"
+        },
+        {
+            "SUPPLIERID": 300,
+            "Supplier Name": "Synchem Laborgemeinschaft UG & Co. KG",
+            "Supplier Shortname": "Synchem Germany",
+            "SUPPLIERCODE": "SYNGE"
+        },
+        {
+            "SUPPLIERID": 301,
+            "Supplier Name": "BAChem AG",
+            "Supplier Shortname": "BAChem",
+            "SUPPLIERCODE": "BCHEM"
+        },
+        {
+            "SUPPLIERID": 302,
+            "Supplier Name": "Aceto Corporation",
+            "Supplier Shortname": "Aceto",
+            "SUPPLIERCODE": "ACETO"
+        },
+        {
+            "SUPPLIERID": 303,
+            "Supplier Name": "Nippon Shokubai Co. Ltd.",
+            "Supplier Shortname": "Nippon Shokubai",
+            "SUPPLIERCODE": "SHOKU"
+        },
+        {
+            "SUPPLIERID": 304,
+            "Supplier Name": "BioVision, Inc.",
+            "Supplier Shortname": "BioVision",
+            "SUPPLIERCODE": "BIVIS"
+        },
+        {
+            "SUPPLIERID": 305,
+            "Supplier Name": "Ryscor Science, Inc.",
+            "Supplier Shortname": "Ryscor",
+            "SUPPLIERCODE": "RYSCR"
+        },
+        {
+            "SUPPLIERID": 306,
+            "Supplier Name": "The Shepherd Chemical Company",
+            "Supplier Shortname": "Shepherd Chemical",
+            "SUPPLIERCODE": "SHEPC"
+        },
+        {
+            "SUPPLIERID": 307,
+            "Supplier Name": "Tomah Products, Inc.",
+            "Supplier Shortname": "Tomah Products",
+            "SUPPLIERCODE": "TOMAH"
+        },
+        {
+            "SUPPLIERID": 308,
+            "Supplier Name": "Klaus F. Meyer GmbH",
+            "Supplier Shortname": "KF Meyer",
+            "SUPPLIERCODE": "KFMDE"
+        },
+        {
+            "SUPPLIERID": 309,
+            "Supplier Name": "Abbott Laboratories Chemical Division",
+            "Supplier Shortname": "Abbott Chemicals",
+            "SUPPLIERCODE": "ABTCM"
+        },
+        {
+            "SUPPLIERID": 310,
+            "Supplier Name": "Nigu Chemie GmbH",
+            "Supplier Shortname": "Nigu Chemie",
+            "SUPPLIERCODE": "NIGUC"
+        },
+        {
+            "SUPPLIERID": 311,
+            "Supplier Name": "Saudi Basic Industries Corporation",
+            "Supplier Shortname": "SABIC",
+            "SUPPLIERCODE": "SABIC"
+        },
+        {
+            "SUPPLIERID": 312,
+            "Supplier Name": "Advanced Aromatics, L.P.",
+            "Supplier Shortname": "Advanced Aromatics",
+            "SUPPLIERCODE": "ADVAR"
+        },
+        {
+            "SUPPLIERID": 313,
+            "Supplier Name": "Hovione Group",
+            "Supplier Shortname": "Hovione",
+            "SUPPLIERCODE": "HOVON"
+        },
+        {
+            "SUPPLIERID": 314,
+            "Supplier Name": "Lumac*LSC B.V.",
+            "Supplier Shortname": "Lumac LSC",
+            "SUPPLIERCODE": "Lumac"
+        },
+        {
+            "SUPPLIERID": 315,
+            "Supplier Name": "ABCR GmbH & Co. KG",
+            "Supplier Shortname": "ABCR",
+            "SUPPLIERCODE": "ABCR"
+        },
+        {
+            "SUPPLIERID": 316,
+            "Supplier Name": "Biotium, Inc.",
+            "Supplier Shortname": "Biotium",
+            "SUPPLIERCODE": "BTIUM"
+        },
+        {
+            "SUPPLIERID": 317,
+            "Supplier Name": "LC Laboratories",
+            "Supplier Shortname": "LC Labs",
+            "SUPPLIERCODE": "LCLAB"
+        },
+        {
+            "SUPPLIERID": 318,
+            "Supplier Name": "R.I. Chemical, Inc.",
+            "Supplier Shortname": "RI Chemical",
+            "SUPPLIERCODE": "RICEM"
+        },
+        {
+            "SUPPLIERID": 319,
+            "Supplier Name": "Wako Pure Chemical Industries, Ltd.",
+            "Supplier Shortname": "Wako Chemicals",
+            "SUPPLIERCODE": "WAKO"
+        },
+        {
+            "SUPPLIERID": 320,
+            "Supplier Name": "Chemi S.p.A.",
+            "Supplier Shortname": "Chemi SPA",
+            "SUPPLIERCODE": "CHEMI"
+        },
+        {
+            "SUPPLIERID": 321,
+            "Supplier Name": "Elpar International Inc.",
+            "Supplier Shortname": "Elpar",
+            "SUPPLIERCODE": "ELPAR"
+        },
+        {
+            "SUPPLIERID": 322,
+            "Supplier Name": "Erregierre Industria Chimica S.p.A",
+            "Supplier Shortname": "Erregierre",
+            "SUPPLIERCODE": "ERRGE"
+        },
+        {
+            "SUPPLIERID": 323,
+            "Supplier Name": "Jiangsu Institute of Ecomones",
+            "Supplier Shortname": "Jiangsu Institute",
+            "SUPPLIERCODE": "JNGSU"
+        },
+        {
+            "SUPPLIERID": 324,
+            "Supplier Name": "Sunoco Chemicals",
+            "Supplier Shortname": "Sunoco Chemicals",
+            "SUPPLIERCODE": "SNOCO"
+        },
+        {
+            "SUPPLIERID": 325,
+            "Supplier Name": "Zhejiang Kangyu Pharmaceutical Co., Ltd.",
+            "Supplier Shortname": "Kangyu Pharma",
+            "SUPPLIERCODE": "KNGYU"
+        },
+        {
+            "SUPPLIERID": 326,
+            "Supplier Name": "Deepak Chemicals Group",
+            "Supplier Shortname": "Deepak Chemicals",
+            "SUPPLIERCODE": "DEPAK"
+        },
+        {
+            "SUPPLIERID": 327,
+            "Supplier Name": "Abbey Color",
+            "Supplier Shortname": "Abbey Color",
+            "SUPPLIERCODE": "ABBEY"
+        },
+        {
+            "SUPPLIERID": 328,
+            "Supplier Name": "Nanjing Redline Ltd.",
+            "Supplier Shortname": "Nanjing Redline",
+            "SUPPLIERCODE": "NANJR"
+        },
+        {
+            "SUPPLIERID": 329,
+            "Supplier Name": "S.K. Chemical Industries",
+            "Supplier Shortname": "S.K. Chemicals",
+            "SUPPLIERCODE": "SKCHM"
+        },
+        {
+            "SUPPLIERID": 330,
+            "Supplier Name": "BioQuadrant Inc.",
+            "Supplier Shortname": "BioQuad",
+            "SUPPLIERCODE": "BQUAD"
+        },
+        {
+            "SUPPLIERID": 331,
+            "Supplier Name": "Beta Pharma, Inc.",
+            "Supplier Shortname": "Beta Pharma",
+            "SUPPLIERCODE": "BETPH"
+        },
+        {
+            "SUPPLIERID": 772,
+            "Supplier Name": "Alfa Chemistry",
+            "Supplier Shortname": "Alfa chem",
+            "SUPPLIERCODE": "Alfac"
+        },
+        {
+            "SUPPLIERID": 773,
+            "Supplier Name": "Shanghai ACT chemical Limited",
+            "Supplier Shortname": "ACTchem",
+            "SUPPLIERCODE": "ACTch"
+        },
+        {
+            "SUPPLIERID": 332,
+            "Supplier Name": "Quanta Biodesign, Ltd.",
+            "Supplier Shortname": "Quanta Biodesign",
+            "SUPPLIERCODE": "QBIOD"
+        },
+        {
+            "SUPPLIERID": 333,
+            "Supplier Name": "MV Laboratories, Inc.",
+            "Supplier Shortname": "MV Labs",
+            "SUPPLIERCODE": "MVLBS"
+        },
+        {
+            "SUPPLIERID": 534,
+            "Supplier Name": "Ace Synthesis LLC",
+            "Supplier Shortname": "Ace Synthesis",
+            "SUPPLIERCODE": "ACESN"
+        },
+        {
+            "SUPPLIERID": 535,
+            "Supplier Name": "Trinapco, Inc.",
+            "Supplier Shortname": "Trinapco, Inc.",
+            "SUPPLIERCODE": "TNAPI"
+        },
+        {
+            "SUPPLIERID": 536,
+            "Supplier Name": "PFL Fine Chemicals GmbH",
+            "Supplier Shortname": "PFL Fine Chemicals",
+            "SUPPLIERCODE": "PFLFC"
+        },
+        {
+            "SUPPLIERID": 537,
+            "Supplier Name": "Princeton BioMolecular Research, Inc.",
+            "Supplier Shortname": "Princeton Bio",
+            "SUPPLIERCODE": "PRBIO"
+        },
+        {
+            "SUPPLIERID": 538,
+            "Supplier Name": "Advamacs",
+            "Supplier Shortname": "Advamacs",
+            "SUPPLIERCODE": "ADVPL"
+        },
+        {
+            "SUPPLIERID": 540,
+            "Supplier Name": "Shanghai Sinofluoro Scientific Corporation Ltd.",
+            "Supplier Shortname": "Shanghai Sinofluoro",
+            "SUPPLIERCODE": "SSSCO"
+        },
+        {
+            "SUPPLIERID": 541,
+            "Supplier Name": "AKL Research LLP",
+            "Supplier Shortname": "AKLR",
+            "SUPPLIERCODE": "AKLR"
+        },
+        {
+            "SUPPLIERID": 542,
+            "Supplier Name": "APAC Pharmaceutical",
+            "Supplier Shortname": "APAC",
+            "SUPPLIERCODE": "APAC"
+        },
+        {
+            "SUPPLIERID": 543,
+            "Supplier Name": "VWR International, LLC",
+            "Supplier Shortname": "VWR International",
+            "SUPPLIERCODE": "VVVIN"
+        },
+        {
+            "SUPPLIERID": 544,
+            "Supplier Name": "Icon Services",
+            "Supplier Shortname": "Icon Services",
+            "SUPPLIERCODE": "ICNSV"
+        },
+        {
+            "SUPPLIERID": 545,
+            "Supplier Name": "Changzhou Welton Chemical Co.,Ltd",
+            "Supplier Shortname": "Changzhou Welton",
+            "SUPPLIERCODE": "CWC"
+        },
+        {
+            "SUPPLIERID": 546,
+            "Supplier Name": "Atomole Scientific Co., Ltd.",
+            "Supplier Shortname": "Atomole Scientific",
+            "SUPPLIERCODE": "ATOSC"
+        },
+        {
+            "SUPPLIERID": 547,
+            "Supplier Name": "Medical Isotopes, Inc.",
+            "Supplier Shortname": "Medical Isotopes",
+            "SUPPLIERCODE": "MEDIS"
+        },
+        {
+            "SUPPLIERID": 548,
+            "Supplier Name": "ChiroBlock GmbH",
+            "Supplier Shortname": "ChiroBlock",
+            "SUPPLIERCODE": "CHBLK"
+        },
+        {
+            "SUPPLIERID": 549,
+            "Supplier Name": "BioBlocks, Inc.",
+            "Supplier Shortname": "Bioblock",
+            "SUPPLIERCODE": "Biobl"
+        },
+        {
+            "SUPPLIERID": 550,
+            "Supplier Name": "Sigma-Aldrich Japan K.K.",
+            "Supplier Shortname": "Sigma-Aldrich Japan",
+            "SUPPLIERCODE": "SAJ"
+        },
+        {
+            "SUPPLIERID": 551,
+            "Supplier Name": "HangZhou Trylead Chemical Technology Co., Ltd.",
+            "Supplier Shortname": "Trylead Chemical",
+            "SUPPLIERCODE": "HTCT"
+        },
+        {
+            "SUPPLIERID": 552,
+            "Supplier Name": "NetQem",
+            "Supplier Shortname": "NetQem",
+            "SUPPLIERCODE": "NetQ"
+        },
+        {
+            "SUPPLIERID": 553,
+            "Supplier Name": "Acesys Pharmatech",
+            "Supplier Shortname": "Acesys Pharmatech",
+            "SUPPLIERCODE": "ACSYS"
+        },
+        {
+            "SUPPLIERID": 554,
+            "Supplier Name": "Chiron AS",
+            "Supplier Shortname": "Chiron",
+            "SUPPLIERCODE": "Chir"
+        },
+        {
+            "SUPPLIERID": 555,
+            "Supplier Name": "Novel Chemical Solutions",
+            "Supplier Shortname": "Novel",
+            "SUPPLIERCODE": "NOVE"
+        },
+        {
+            "SUPPLIERID": 556,
+            "Supplier Name": "C/D/N Isotopes Inc.",
+            "Supplier Shortname": "CDN Isotopes",
+            "SUPPLIERCODE": "CDNII"
+        },
+        {
+            "SUPPLIERID": 557,
+            "Supplier Name": "Kingsh Chemicals Ltd.",
+            "Supplier Shortname": "Kingsh Chemicals",
+            "SUPPLIERCODE": "KINGS"
+        },
+        {
+            "SUPPLIERID": 558,
+            "Supplier Name": "Changzhou Shuocheng Biological Technology Co. Ltd",
+            "Supplier Shortname": "Changzhou Shuocheng",
+            "SUPPLIERCODE": "CSBT"
+        },
+        {
+            "SUPPLIERID": 559,
+            "Supplier Name": "J&K Scientific Ltd",
+            "Supplier Shortname": "J&K Sci",
+            "SUPPLIERCODE": "J&K"
+        },
+        {
+            "SUPPLIERID": 560,
+            "Supplier Name": "Capot Chemical Company Limited",
+            "Supplier Shortname": "Capot",
+            "SUPPLIERCODE": "Capot"
+        },
+        {
+            "SUPPLIERID": 561,
+            "Supplier Name": "Life Chemicals Inc.",
+            "Supplier Shortname": "Life Chemicals",
+            "SUPPLIERCODE": "Life"
+        },
+        {
+            "SUPPLIERID": 562,
+            "Supplier Name": "LeadGen Labs, LLC",
+            "Supplier Shortname": "LeadGen Labs",
+            "SUPPLIERCODE": "LGLAB"
+        },
+        {
+            "SUPPLIERID": 563,
+            "Supplier Name": "Shanghai Chemhere Co., Ltd",
+            "Supplier Shortname": "Shanghai ChemHere",
+            "SUPPLIERCODE": "SCHLT"
+        },
+        {
+            "SUPPLIERID": 564,
+            "Supplier Name": "Hangzhou APIChem Technology Co., Ltd.",
+            "Supplier Shortname": "APIchem",
+            "SUPPLIERCODE": "API"
+        },
+        {
+            "SUPPLIERID": 565,
+            "Supplier Name": "Shanghai PharmaTech Co., Ltd. (Parling)",
+            "Supplier Shortname": "Parling",
+            "SUPPLIERCODE": "SHPLG"
+        },
+        {
+            "SUPPLIERID": 566,
+            "Supplier Name": "Ennova Medchem Group, Inc.",
+            "Supplier Shortname": "Ennova Medchem",
+            "SUPPLIERCODE": "ENOVA"
+        },
+        {
+            "SUPPLIERID": 567,
+            "Supplier Name": "Sohve Corporation",
+            "Supplier Shortname": "Sohve Corporation",
+            "SUPPLIERCODE": "SOHVE"
+        },
+        {
+            "SUPPLIERID": 568,
+            "Supplier Name": "Sequoia Research Products Ltd",
+            "Supplier Shortname": "Sequoia",
+            "SUPPLIERCODE": "SQRPL"
+        },
+        {
+            "SUPPLIERID": 569,
+            "Supplier Name": "WuXi AppTec Co., Ltd",
+            "Supplier Shortname": "Wuxi",
+            "SUPPLIERCODE": "WUXI"
+        },
+        {
+            "SUPPLIERID": 570,
+            "Supplier Name": "Suzhou ChonTech PharmaChem Technology Co., Ltd.",
+            "Supplier Shortname": "Chontech",
+            "SUPPLIERCODE": "CTECH"
+        },
+        {
+            "SUPPLIERID": 571,
+            "Supplier Name": "Heterocyclics Inc.",
+            "Supplier Shortname": "Hetero",
+            "SUPPLIERCODE": "HETER"
+        },
+        {
+            "SUPPLIERID": 572,
+            "Supplier Name": "ECA International Corporation",
+            "Supplier Shortname": "ECA Intl.",
+            "SUPPLIERCODE": "ECAIN"
+        },
+        {
+            "SUPPLIERID": 573,
+            "Supplier Name": "Mole Chemical Corporation",
+            "Supplier Shortname": "Mole Chemical",
+            "SUPPLIERCODE": "MOLCH"
+        },
+        {
+            "SUPPLIERID": 574,
+            "Supplier Name": "Apex Scientific Inc.",
+            "Supplier Shortname": "Apex Scientific",
+            "SUPPLIERCODE": "APXSC"
+        },
+        {
+            "SUPPLIERID": 575,
+            "Supplier Name": "AcceleDev Chemical LLC",
+            "Supplier Shortname": "AcceleDev",
+            "SUPPLIERCODE": "ACDEV"
+        },
+        {
+            "SUPPLIERID": 576,
+            "Supplier Name": "Chemtos, LLC",
+            "Supplier Shortname": "Chemtos, LLC",
+            "SUPPLIERCODE": "CHTOS"
+        },
+        {
+            "SUPPLIERID": 577,
+            "Supplier Name": "Wuxi D-Stone International Co., Ltd.",
+            "Supplier Shortname": "Wuxi D-Stone",
+            "SUPPLIERCODE": "WXDST"
+        },
+        {
+            "SUPPLIERID": 578,
+            "Supplier Name": "Pharmten Chemical Co., Limited",
+            "Supplier Shortname": "Pharmten Chemical",
+            "SUPPLIERCODE": "PHRMT"
+        },
+        {
+            "SUPPLIERID": 579,
+            "Supplier Name": "Baihua Bio-Pharmaceutical Co. Ltd.",
+            "Supplier Shortname": "Baihua Bio-Pharm",
+            "SUPPLIERCODE": "BAIPH"
+        },
+        {
+            "SUPPLIERID": 580,
+            "Supplier Name": "Rare Chemicals GmbH",
+            "Supplier Shortname": "Rare Chemicals GmbH",
+            "SUPPLIERCODE": "RCHEM"
+        },
+        {
+            "SUPPLIERID": 581,
+            "Supplier Name": "Watanabe Chemical Industries, Ltd.",
+            "Supplier Shortname": "Watanabe",
+            "SUPPLIERCODE": "WATCH"
+        },
+        {
+            "SUPPLIERID": 582,
+            "Supplier Name": "Advanced ChemBlocks Inc.",
+            "Supplier Shortname": "Adv ChemBlocks",
+            "SUPPLIERCODE": "ADCBK"
+        },
+        {
+            "SUPPLIERID": 583,
+            "Supplier Name": "InterBioScreen Ltd. (Biologicals)",
+            "Supplier Shortname": "InterBioScreen (Bio)",
+            "SUPPLIERCODE": "IBSCN"
+        },
+        {
+            "SUPPLIERID": 584,
+            "Supplier Name": "Shanghai Haoyuan Chemexpress Co., Ltd",
+            "Supplier Shortname": "Chemexpress",
+            "SUPPLIERCODE": "ChemX"
+        },
+        {
+            "SUPPLIERID": 585,
+            "Supplier Name": "InterBioScreen Ltd. (Building Blocks)",
+            "Supplier Shortname": "InterBioScreen (BB)",
+            "SUPPLIERCODE": "IBSBB"
+        },
+        {
+            "SUPPLIERID": 586,
+            "Supplier Name": "PharmaBlock R&D Co. Ltd.",
+            "Supplier Shortname": "PharmaBlock",
+            "SUPPLIERCODE": "PHRMB"
+        },
+        {
+            "SUPPLIERID": 587,
+            "Supplier Name": "Shanghai Elittes Organics Co., Ltd.",
+            "Supplier Shortname": "Shanghai Elittes",
+            "SUPPLIERCODE": "ELITE"
+        },
+        {
+            "SUPPLIERID": 588,
+            "Supplier Name": "Biofine International Inc.",
+            "Supplier Shortname": "Biofine Int",
+            "SUPPLIERCODE": "BIOFN"
+        },
+        {
+            "SUPPLIERID": 589,
+            "Supplier Name": "Spectrum Info Ltd.",
+            "Supplier Shortname": "Spectrum Info",
+            "SUPPLIERCODE": "SPCIN"
+        },
+        {
+            "SUPPLIERID": 590,
+            "Supplier Name": "Asinex Ltd.",
+            "Supplier Shortname": "Asinex",
+            "SUPPLIERCODE": "ASNEX"
+        },
+        {
+            "SUPPLIERID": 591,
+            "Supplier Name": "Chemzon Scientific Inc.",
+            "Supplier Shortname": "Chemzon Scientific",
+            "SUPPLIERCODE": "CMZON"
+        },
+        {
+            "SUPPLIERID": 592,
+            "Supplier Name": "American Advanced Scientific Inc.",
+            "Supplier Shortname": "AA Scientific",
+            "SUPPLIERCODE": "AASCI"
+        },
+        {
+            "SUPPLIERID": 593,
+            "Supplier Name": "JPM2 Pharmaceuticals, Inc.",
+            "Supplier Shortname": "JPM2 Pharma",
+            "SUPPLIERCODE": "JPM2"
+        },
+        {
+            "SUPPLIERID": 594,
+            "Supplier Name": "Chemgenx LLC",
+            "Supplier Shortname": "Chemgenx LLC",
+            "SUPPLIERCODE": "CMGNX"
+        },
+        {
+            "SUPPLIERID": 595,
+            "Supplier Name": "Alchem Pharmtech, Inc.",
+            "Supplier Shortname": "Alchem pharma",
+            "SUPPLIERCODE": "ALCHE"
+        },
+        {
+            "SUPPLIERID": 596,
+            "Supplier Name": "CacheSyn Inc.",
+            "Supplier Shortname": "CacheSyn",
+            "SUPPLIERCODE": "Cache"
+        },
+        {
+            "SUPPLIERID": 597,
+            "Supplier Name": "Acentex Scientific, Inc.",
+            "Supplier Shortname": "Acentex Scientific",
+            "SUPPLIERCODE": "Acent"
+        },
+        {
+            "SUPPLIERID": 598,
+            "Supplier Name": "Chemical Technologies & Investigations, Ltd.",
+            "Supplier Shortname": "ChemTI",
+            "SUPPLIERCODE": "CHMTI"
+        },
+        {
+            "SUPPLIERID": 599,
+            "Supplier Name": "Shanghai Specbiochem Chemistry Group Limited",
+            "Supplier Shortname": "Specbiochem",
+            "SUPPLIERCODE": "specb"
+        },
+        {
+            "SUPPLIERID": 600,
+            "Supplier Name": "AOKChem Co., Ltd.",
+            "Supplier Shortname": "AOKchem",
+            "SUPPLIERCODE": "AOK"
+        },
+        {
+            "SUPPLIERID": 601,
+            "Supplier Name": "AsisChem Inc.",
+            "Supplier Shortname": "AsisChem Inc.",
+            "SUPPLIERCODE": "ASISC"
+        },
+        {
+            "SUPPLIERID": 603,
+            "Supplier Name": "Chemfuture PharmaTech (Jiangsu) Ltd.",
+            "Supplier Shortname": "Chemfuture",
+            "SUPPLIERCODE": "CHEMF"
+        },
+        {
+            "SUPPLIERID": 604,
+            "Supplier Name": "Bepharm Ltd.",
+            "Supplier Shortname": "Bepharm Ltd.",
+            "SUPPLIERCODE": "BEPHM"
+        },
+        {
+            "SUPPLIERID": 605,
+            "Supplier Name": "Fine Chemical Co., Ltd. Lanzhou Belfast",
+            "Supplier Shortname": "Lanzhou Fast",
+            "SUPPLIERCODE": "LANZH"
+        },
+        {
+            "SUPPLIERID": 606,
+            "Supplier Name": "Suzhou Rovathin Pharmatech Co., Ltd",
+            "Supplier Shortname": "Suzhou Rovathin",
+            "SUPPLIERCODE": "SRVTN"
+        },
+        {
+            "SUPPLIERID": 607,
+            "Supplier Name": "Key Organics Bionet Biochemicals",
+            "Supplier Shortname": "Bionet Biochemicals",
+            "SUPPLIERCODE": "BASSY"
+        },
+        {
+            "SUPPLIERID": 608,
+            "Supplier Name": "Pharmabridge Inc.",
+            "Supplier Shortname": "Pharmabridge Inc.",
+            "SUPPLIERCODE": "PHARM"
+        },
+        {
+            "SUPPLIERID": 609,
+            "Supplier Name": "Tractus Company Limited",
+            "Supplier Shortname": "Tractus",
+            "SUPPLIERCODE": "TRACT"
+        },
+        {
+            "SUPPLIERID": 334,
+            "Supplier Name": "Shell Chemical LP",
+            "Supplier Shortname": "Shell Chemicals",
+            "SUPPLIERCODE": "SHELL"
+        },
+        {
+            "SUPPLIERID": 335,
+            "Supplier Name": "Key Organics Bionet Building Blocks",
+            "Supplier Shortname": "Bionet BBL",
+            "SUPPLIERCODE": "BIONT"
+        },
+        {
+            "SUPPLIERID": 336,
+            "Supplier Name": "Fluorous Technologies, Inc.",
+            "Supplier Shortname": "Fluorous Tech",
+            "SUPPLIERCODE": "FLUTK"
+        },
+        {
+            "SUPPLIERID": 337,
+            "Supplier Name": "Biochemie GmbH",
+            "Supplier Shortname": "Biochemie",
+            "SUPPLIERCODE": "BCAUS"
+        },
+        {
+            "SUPPLIERID": 338,
+            "Supplier Name": "Precision Biochemicals, Inc.",
+            "Supplier Shortname": "Precision Bio",
+            "SUPPLIERCODE": "PCBIO"
+        },
+        {
+            "SUPPLIERID": 340,
+            "Supplier Name": "Genosys (a Sigma Aldrich Brand)",
+            "Supplier Shortname": "Genosys",
+            "SUPPLIERCODE": "Gnsys"
+        },
+        {
+            "SUPPLIERID": 341,
+            "Supplier Name": "Supelco (a Sigma Aldrich Brand)",
+            "Supplier Shortname": "Supelco",
+            "SUPPLIERCODE": "Splco"
+        },
+        {
+            "SUPPLIERID": 342,
+            "Supplier Name": "Alchem International Limited",
+            "Supplier Shortname": "Alchem",
+            "SUPPLIERCODE": "ALCHM"
+        },
+        {
+            "SUPPLIERID": 343,
+            "Supplier Name": "Biotrend Chemikalien GmbH - Neurochemicals",
+            "Supplier Shortname": "Biotrend N",
+            "SUPPLIERCODE": "BIOTN"
+        },
+        {
+            "SUPPLIERID": 344,
+            "Supplier Name": "Biotrend Chemikalien GmbH - Radiochemicals",
+            "Supplier Shortname": "Biotrend R",
+            "SUPPLIERCODE": "BIOTR"
+        },
+        {
+            "SUPPLIERID": 346,
+            "Supplier Name": "Chematek S.p.A.",
+            "Supplier Shortname": "Chematek",
+            "SUPPLIERCODE": "CATEK"
+        },
+        {
+            "SUPPLIERID": 347,
+            "Supplier Name": "Chemicrea Inc.",
+            "Supplier Shortname": "Chemicrea",
+            "SUPPLIERCODE": "CCREA"
+        },
+        {
+            "SUPPLIERID": 348,
+            "Supplier Name": "Eurolabs Limited",
+            "Supplier Shortname": "Eurolabs",
+            "SUPPLIERCODE": "EUROL"
+        },
+        {
+            "SUPPLIERID": 349,
+            "Supplier Name": "Neosyn Laboratories Inc.",
+            "Supplier Shortname": "Neosyn Labs",
+            "SUPPLIERCODE": "NESYN"
+        },
+        {
+            "SUPPLIERID": 350,
+            "Supplier Name": "Sinochem Hebei Tianjin Import - Export Corporation",
+            "Supplier Shortname": "Sinochem Hebei",
+            "SUPPLIERCODE": "SINOC"
+        },
+        {
+            "SUPPLIERID": 351,
+            "Supplier Name": "AstaTech, Inc.",
+            "Supplier Shortname": "AstaTech, Inc.",
+            "SUPPLIERCODE": "ASTCH"
+        },
+        {
+            "SUPPLIERID": 353,
+            "Supplier Name": "Albany Molecular Research, Inc.",
+            "Supplier Shortname": "Albany Molecular",
+            "SUPPLIERCODE": "ALBMO"
+        },
+        {
+            "SUPPLIERID": 354,
+            "Supplier Name": "USDAC Company",
+            "Supplier Shortname": "USDAC Co.",
+            "SUPPLIERCODE": "USDAC"
+        },
+        {
+            "SUPPLIERID": 355,
+            "Supplier Name": "Advance Research Chemicals, Inc.",
+            "Supplier Shortname": "Adv Research Chem",
+            "SUPPLIERCODE": "ADVRC"
+        },
+        {
+            "SUPPLIERID": 356,
+            "Supplier Name": "Acme Bioscience, Inc.",
+            "Supplier Shortname": "Acme Bioscience",
+            "SUPPLIERCODE": "ACBIO"
+        },
+        {
+            "SUPPLIERID": 357,
+            "Supplier Name": "Viva Corporation",
+            "Supplier Shortname": "Viva Corporation",
+            "SUPPLIERCODE": "VivaC"
+        },
+        {
+            "SUPPLIERID": 358,
+            "Supplier Name": "Bio-Research Products, Inc.",
+            "Supplier Shortname": "Bio-Research",
+            "SUPPLIERCODE": "BIORP"
+        },
+        {
+            "SUPPLIERID": 359,
+            "Supplier Name": "PharmaCore, Inc.",
+            "Supplier Shortname": "PharmaCore",
+            "SUPPLIERCODE": "PCORE"
+        },
+        {
+            "SUPPLIERID": 360,
+            "Supplier Name": "IVD (A Sigma-Aldrich Brand)",
+            "Supplier Shortname": "IVD - SigmaAldrich",
+            "SUPPLIERCODE": "IVDSA"
+        },
+        {
+            "SUPPLIERID": 361,
+            "Supplier Name": "Boron Molecular",
+            "Supplier Shortname": "Boron Molecular",
+            "SUPPLIERCODE": "BORMO"
+        },
+        {
+            "SUPPLIERID": 362,
+            "Supplier Name": "Synthon Chemicals GmbH & Co. KG",
+            "Supplier Shortname": "Synthon Germany",
+            "SUPPLIERCODE": "SYNDE"
+        },
+        {
+            "SUPPLIERID": 363,
+            "Supplier Name": "Rieke Metals, Inc.",
+            "Supplier Shortname": "Rieke Metals, Inc.",
+            "SUPPLIERCODE": "RIEKE"
+        },
+        {
+            "SUPPLIERID": 364,
+            "Supplier Name": "J & W PharmLab, LLC",
+            "Supplier Shortname": "J&W PharmLab",
+            "SUPPLIERCODE": "JWPHA"
+        },
+        {
+            "SUPPLIERID": 365,
+            "Supplier Name": "ABX Advanced Biochemical Compounds",
+            "Supplier Shortname": "ABX Biochem",
+            "SUPPLIERCODE": "ABXDE"
+        },
+        {
+            "SUPPLIERID": 366,
+            "Supplier Name": "JRD Fluorochemicals Ltd",
+            "Supplier Shortname": "JRD Fluorochem",
+            "SUPPLIERCODE": "JRDFL"
+        },
+        {
+            "SUPPLIERID": 367,
+            "Supplier Name": "Fluorochem Group -- Scale Up Solutions",
+            "Supplier Shortname": "Fluorochem Group",
+            "SUPPLIERCODE": "FCSUS"
+        },
+        {
+            "SUPPLIERID": 368,
+            "Supplier Name": "Platte Valley Scientific, LLC",
+            "Supplier Shortname": "Platte Valley",
+            "SUPPLIERCODE": "PVSCI"
+        },
+        {
+            "SUPPLIERID": 369,
+            "Supplier Name": "SynFine Research",
+            "Supplier Shortname": "SynFine Research",
+            "SUPPLIERCODE": "SYNFI"
+        },
+        {
+            "SUPPLIERID": 370,
+            "Supplier Name": "Advanced Synthesis Technologies, S.A.",
+            "Supplier Shortname": "Advanced Synthesis",
+            "SUPPLIERCODE": "ADSYN"
+        },
+        {
+            "SUPPLIERID": 371,
+            "Supplier Name": "Materia, Inc.",
+            "Supplier Shortname": "Materia",
+            "SUPPLIERCODE": "MTRIA"
+        },
+        {
+            "SUPPLIERID": 372,
+            "Supplier Name": "LKT Laboratories, Inc.",
+            "Supplier Shortname": "LKT Labs",
+            "SUPPLIERCODE": "LKTLB"
+        },
+        {
+            "SUPPLIERID": 373,
+            "Supplier Name": "Firmenich SA",
+            "Supplier Shortname": "Firmenich SA",
+            "SUPPLIERCODE": "FIRMS"
+        },
+        {
+            "SUPPLIERID": 374,
+            "Supplier Name": "Adesis, Inc.",
+            "Supplier Shortname": "Adesis",
+            "SUPPLIERCODE": "CBRDI"
+        },
+        {
+            "SUPPLIERID": 375,
+            "Supplier Name": "International Flavors & Fragrances Inc.",
+            "Supplier Shortname": "Intl Flavors & Fragr",
+            "SUPPLIERCODE": "IFLFR"
+        },
+        {
+            "SUPPLIERID": 376,
+            "Supplier Name": "Cuschem Inc.",
+            "Supplier Shortname": "Cuschem Inc.",
+            "SUPPLIERCODE": "CUSCH"
+        },
+        {
+            "SUPPLIERID": 377,
+            "Supplier Name": "AB Chem Technologies LLC",
+            "Supplier Shortname": "AB ChemTech",
+            "SUPPLIERCODE": "ABCTL"
+        },
+        {
+            "SUPPLIERID": 378,
+            "Supplier Name": "City Chemical LLC",
+            "Supplier Shortname": "City Chem",
+            "SUPPLIERCODE": "CITYC"
+        },
+        {
+            "SUPPLIERID": 379,
+            "Supplier Name": "Finornic Chemicals (I) Pvt. Ltd.",
+            "Supplier Shortname": "Finornic",
+            "SUPPLIERCODE": "FINOR"
+        },
+        {
+            "SUPPLIERID": 380,
+            "Supplier Name": "American Bioanalytical",
+            "Supplier Shortname": "American Bioanalytic",
+            "SUPPLIERCODE": "AMBIO"
+        },
+        {
+            "SUPPLIERID": 381,
+            "Supplier Name": "Dhruvtara Chemicals Pvt Ltd",
+            "Supplier Shortname": "Dhruvtara Chemicals",
+            "SUPPLIERCODE": "DHRUV"
+        },
+        {
+            "SUPPLIERID": 382,
+            "Supplier Name": "ChemSampCo, LLC",
+            "Supplier Shortname": "ChemSampCo",
+            "SUPPLIERCODE": "CMSPC"
+        },
+        {
+            "SUPPLIERID": 383,
+            "Supplier Name": "Combi-Blocks, Inc.",
+            "Supplier Shortname": "Combi-Blocks",
+            "SUPPLIERCODE": "CMBLK"
+        },
+        {
+            "SUPPLIERID": 384,
+            "Supplier Name": "European Technologies Inc.",
+            "Supplier Shortname": "European Tech",
+            "SUPPLIERCODE": "ETICH"
+        },
+        {
+            "SUPPLIERID": 385,
+            "Supplier Name": "Avonchem/Chromos Express Ltd",
+            "Supplier Shortname": "AvonChem",
+            "SUPPLIERCODE": "AVONC"
+        },
+        {
+            "SUPPLIERID": 386,
+            "Supplier Name": "Beijing Golden Olive Company",
+            "Supplier Shortname": "Beijing Golden",
+            "SUPPLIERCODE": "BGOLV"
+        },
+        {
+            "SUPPLIERID": 387,
+            "Supplier Name": "Minol Acids & Chemicals Pvt. Ltd.",
+            "Supplier Shortname": "Minol",
+            "SUPPLIERCODE": "MINOL"
+        },
+        {
+            "SUPPLIERID": 388,
+            "Supplier Name": "3B Scientific Corporation",
+            "Supplier Shortname": "3B Scientific Corp",
+            "SUPPLIERCODE": "3BSCI"
+        },
+        {
+            "SUPPLIERID": 389,
+            "Supplier Name": "XinChem Company",
+            "Supplier Shortname": "XinChem",
+            "SUPPLIERCODE": "XINCH"
+        },
+        {
+            "SUPPLIERID": 390,
+            "Supplier Name": "Polium Technologies, Inc.",
+            "Supplier Shortname": "Polium Technologies",
+            "SUPPLIERCODE": "POLIU"
+        },
+        {
+            "SUPPLIERID": 391,
+            "Supplier Name": "Shanghai Pu-Jie Fragrance Co., Ltd.",
+            "Supplier Shortname": "Shanghai Fragrance",
+            "SUPPLIERCODE": "SHFRG"
+        },
+        {
+            "SUPPLIERID": 392,
+            "Supplier Name": "Chengdu GT Biochem Co.,Ltd.",
+            "Supplier Shortname": "Chengdu GT Biochem",
+            "SUPPLIERCODE": "CNGDU"
+        },
+        {
+            "SUPPLIERID": 393,
+            "Supplier Name": "Synthe163",
+            "Supplier Shortname": "Synthe163",
+            "SUPPLIERCODE": "SN163"
+        },
+        {
+            "SUPPLIERID": 394,
+            "Supplier Name": "ChemContract Research Inc.",
+            "Supplier Shortname": "ChemContract Researc",
+            "SUPPLIERCODE": "CMCON"
+        },
+        {
+            "SUPPLIERID": 395,
+            "Supplier Name": "Merck Schuchardt OHG",
+            "Supplier Shortname": "Merck Schuchardt OHG",
+            "SUPPLIERCODE": "MSOHG"
+        },
+        {
+            "SUPPLIERID": 396,
+            "Supplier Name": "Sun Biochemicals, Inc.",
+            "Supplier Shortname": "Sun Biochemicals",
+            "SUPPLIERCODE": "SUNBC"
+        },
+        {
+            "SUPPLIERID": 397,
+            "Supplier Name": "EMKA-Chemie",
+            "Supplier Shortname": "EMKA-Chemie",
+            "SUPPLIERCODE": "EMKAC"
+        },
+        {
+            "SUPPLIERID": 398,
+            "Supplier Name": "Onyx Scientific Limited",
+            "Supplier Shortname": "Onyx Scientific",
+            "SUPPLIERCODE": "ONYXS"
+        },
+        {
+            "SUPPLIERID": 399,
+            "Supplier Name": "Triomphe Fine Chemistry Co.",
+            "Supplier Shortname": "Triomphe",
+            "SUPPLIERCODE": "TFCCN"
+        },
+        {
+            "SUPPLIERID": 400,
+            "Supplier Name": "Americhem, Inc.",
+            "Supplier Shortname": "Americhem, Inc.",
+            "SUPPLIERCODE": "AMRCM"
+        },
+        {
+            "SUPPLIERID": 401,
+            "Supplier Name": "Focus Synthesis LLC",
+            "Supplier Shortname": "Focus Synthesis",
+            "SUPPLIERCODE": "FOCUS"
+        },
+        {
+            "SUPPLIERID": 402,
+            "Supplier Name": "AK Scientific, Inc.",
+            "Supplier Shortname": "AK Scientific",
+            "SUPPLIERCODE": "Aksci"
+        },
+        {
+            "SUPPLIERID": 610,
+            "Supplier Name": "Key Organics Bionet Fragment Library",
+            "Supplier Shortname": "Bionet Fragment Libr",
+            "SUPPLIERCODE": "BFRGL"
+        },
+        {
+            "SUPPLIERID": 611,
+            "Supplier Name": "ZereneX Molecular Limited",
+            "Supplier Shortname": "ZereneX Molecular",
+            "SUPPLIERCODE": "Zeren"
+        },
+        {
+            "SUPPLIERID": 612,
+            "Supplier Name": "Paradigm Scientific, Inc.",
+            "Supplier Shortname": "Paradigm Scientific",
+            "SUPPLIERCODE": "Parad"
+        },
+        {
+            "SUPPLIERID": 613,
+            "Supplier Name": "Aroma Circle Corp.",
+            "Supplier Shortname": "Aroma Circle Corp",
+            "SUPPLIERCODE": "Aroma"
+        },
+        {
+            "SUPPLIERID": 614,
+            "Supplier Name": "Insight Chemical Solutions Ltd.",
+            "Supplier Shortname": "Insight chemical",
+            "SUPPLIERCODE": "Insig"
+        },
+        {
+            "SUPPLIERID": 615,
+            "Supplier Name": "Aberjona Laboratories, Inc.",
+            "Supplier Shortname": "Aberjona laboratorie",
+            "SUPPLIERCODE": "Aberj"
+        },
+        {
+            "SUPPLIERID": 616,
+            "Supplier Name": "MedKoo Biosciences, Inc.",
+            "Supplier Shortname": "Medkoo Biosciences",
+            "SUPPLIERCODE": "Medko"
+        },
+        {
+            "SUPPLIERID": 617,
+            "Supplier Name": "Carbosynth Ltd",
+            "Supplier Shortname": "Carbosynth",
+            "SUPPLIERCODE": "CSNTH"
+        },
+        {
+            "SUPPLIERID": 618,
+            "Supplier Name": "Porse Fine Chemical Co., Ltd.",
+            "Supplier Shortname": "Porse FC",
+            "SUPPLIERCODE": "PORSE"
+        },
+        {
+            "SUPPLIERID": 619,
+            "Supplier Name": "Chemische Laboratorien Dr. Soenke Petersen",
+            "Supplier Shortname": "Chemische Lab",
+            "SUPPLIERCODE": "Peter"
+        },
+        {
+            "SUPPLIERID": 620,
+            "Supplier Name": "Huhugene, Inc.",
+            "Supplier Shortname": "Huhugene",
+            "SUPPLIERCODE": "Huhug"
+        },
+        {
+            "SUPPLIERID": 621,
+            "Supplier Name": "Zhengtai Pharma & Chem Co., Ltd",
+            "Supplier Shortname": "Zhengtai",
+            "SUPPLIERCODE": "Zheng"
+        },
+        {
+            "SUPPLIERID": 622,
+            "Supplier Name": "Chemieliva Pharmaceutical Co., Ltd",
+            "Supplier Shortname": "Chemieliva",
+            "SUPPLIERCODE": "Chem"
+        },
+        {
+            "SUPPLIERID": 623,
+            "Supplier Name": "A&C Pharmtech, Inc",
+            "Supplier Shortname": "A&C",
+            "SUPPLIERCODE": "A&C P"
+        },
+        {
+            "SUPPLIERID": 624,
+            "Supplier Name": "Alfa Pyridines",
+            "Supplier Shortname": "AlfaPyridines",
+            "SUPPLIERCODE": "AlfaP"
+        },
+        {
+            "SUPPLIERID": 625,
+            "Supplier Name": "Abamachem Ltd.",
+            "Supplier Shortname": "Abamachem",
+            "SUPPLIERCODE": "ABMCH"
+        },
+        {
+            "SUPPLIERID": 626,
+            "Supplier Name": "OriBase Pharma",
+            "Supplier Shortname": "Oribase",
+            "SUPPLIERCODE": "Oriba"
+        },
+        {
+            "SUPPLIERID": 627,
+            "Supplier Name": "Selena Chemicals Ltd.",
+            "Supplier Shortname": "Selena Chemicals",
+            "SUPPLIERCODE": "SELCH"
+        },
+        {
+            "SUPPLIERID": 628,
+            "Supplier Name": "Asinex Ltd. Platinum Collection",
+            "Supplier Shortname": "Asinex Platinum",
+            "SUPPLIERCODE": "ASXPT"
+        },
+        {
+            "SUPPLIERID": 629,
+            "Supplier Name": "Abby Pharmatech, LLC",
+            "Supplier Shortname": "Abby Pharmatech",
+            "SUPPLIERCODE": "ABYPT"
+        },
+        {
+            "SUPPLIERID": 630,
+            "Supplier Name": "Innocechem Chemical Co., Ltd.",
+            "Supplier Shortname": "Innocechem Chemical",
+            "SUPPLIERCODE": "INNOC"
+        },
+        {
+            "SUPPLIERID": 631,
+            "Supplier Name": "Waterstone Technology, LLC",
+            "Supplier Shortname": "Waterstone",
+            "SUPPLIERCODE": "Water"
+        },
+        {
+            "SUPPLIERID": 632,
+            "Supplier Name": "Cyth Chemical Trade Co.,Ltd.",
+            "Supplier Shortname": "Cythchem",
+            "SUPPLIERCODE": "CYTH"
+        },
+        {
+            "SUPPLIERID": 633,
+            "Supplier Name": "Santai Labs, Inc.",
+            "Supplier Shortname": "Santai Labs",
+            "SUPPLIERCODE": "Santa"
+        },
+        {
+            "SUPPLIERID": 634,
+            "Supplier Name": "Aurora Fine Chemicals Ltd",
+            "Supplier Shortname": "Aurora Fine Chem",
+            "SUPPLIERCODE": "AUROR"
+        },
+        {
+            "SUPPLIERID": 635,
+            "Supplier Name": "Nanjing Pharmaceutical Factory Co., Ltd",
+            "Supplier Shortname": "Nanjing pharmaceutic",
+            "SUPPLIERCODE": "NANJI"
+        },
+        {
+            "SUPPLIERID": 636,
+            "Supplier Name": "Synovo GmbH",
+            "Supplier Shortname": "Synovo GmbH",
+            "SUPPLIERCODE": "Synov"
+        },
+        {
+            "SUPPLIERID": 637,
+            "Supplier Name": "Daybiochem Technology Co., Ltd",
+            "Supplier Shortname": "Daybiochem",
+            "SUPPLIERCODE": "Daybi"
+        },
+        {
+            "SUPPLIERID": 639,
+            "Supplier Name": "ChemALong Laboratories, LLC",
+            "Supplier Shortname": "ChemALong",
+            "SUPPLIERCODE": "ChemA"
+        },
+        {
+            "SUPPLIERID": 640,
+            "Supplier Name": "EvoBlocks, Ltd.",
+            "Supplier Shortname": "EvoBlocks",
+            "SUPPLIERCODE": "Evobl"
+        },
+        {
+            "SUPPLIERID": 641,
+            "Supplier Name": "Finetech industry limited",
+            "Supplier Shortname": "Finetech",
+            "SUPPLIERCODE": "Finet"
+        },
+        {
+            "SUPPLIERID": 642,
+            "Supplier Name": "SynAffix BV",
+            "Supplier Shortname": "SynAffix BV",
+            "SUPPLIERCODE": "SynAf"
+        },
+        {
+            "SUPPLIERID": 643,
+            "Supplier Name": "AOKBIO Co., LTD",
+            "Supplier Shortname": "AOKBIO",
+            "SUPPLIERCODE": "aokbi"
+        },
+        {
+            "SUPPLIERID": 644,
+            "Supplier Name": "Angene International Limited",
+            "Supplier Shortname": "Angene",
+            "SUPPLIERCODE": "Angen"
+        },
+        {
+            "SUPPLIERID": 645,
+            "Supplier Name": "Centec International",
+            "Supplier Shortname": "Centec",
+            "SUPPLIERCODE": "Cente"
+        },
+        {
+            "SUPPLIERID": 646,
+            "Supplier Name": "Chongqing Jiulongpo Yuhua Chemicals Co., Ltd",
+            "Supplier Shortname": "Chongqing Jiulongpo",
+            "SUPPLIERCODE": "Chong"
+        },
+        {
+            "SUPPLIERID": 647,
+            "Supplier Name": "Shanghai Race Chemical Co., Ltd",
+            "Supplier Shortname": "Shanghai Race",
+            "SUPPLIERCODE": "Race"
+        },
+        {
+            "SUPPLIERID": 648,
+            "Supplier Name": "Echelon Biosciences Inc.",
+            "Supplier Shortname": "Echelon Biosciences",
+            "SUPPLIERCODE": "ECBIO"
+        },
+        {
+            "SUPPLIERID": 649,
+            "Supplier Name": "1K Scientific CO., Ltd",
+            "Supplier Shortname": "1K Scientific",
+            "SUPPLIERCODE": "1KSci"
+        },
+        {
+            "SUPPLIERID": 650,
+            "Supplier Name": "High Performance Product Engineering",
+            "Supplier Shortname": "HighPerformance",
+            "SUPPLIERCODE": "HPPE"
+        },
+        {
+            "SUPPLIERID": 651,
+            "Supplier Name": "Vijaya Pharmaceuticals, LLC",
+            "Supplier Shortname": "Vijaya Pharma",
+            "SUPPLIERCODE": "Vijay"
+        },
+        {
+            "SUPPLIERID": 652,
+            "Supplier Name": "Synergy-Scientific Ltd.",
+            "Supplier Shortname": "Synergy-Sci",
+            "SUPPLIERCODE": "SYNSC"
+        },
+        {
+            "SUPPLIERID": 653,
+            "Supplier Name": "Apeiron Synthesis Sp. z o.o.",
+            "Supplier Shortname": "Apeiron Synthesis",
+            "SUPPLIERCODE": "APEIR"
+        },
+        {
+            "SUPPLIERID": 654,
+            "Supplier Name": "Cool Pharm, Ltd.",
+            "Supplier Shortname": "Cool Pharm",
+            "SUPPLIERCODE": "COOLP"
+        },
+        {
+            "SUPPLIERID": 655,
+            "Supplier Name": "MicroCombiChem e.K.",
+            "Supplier Shortname": "MicroCombi",
+            "SUPPLIERCODE": "MICRO"
+        },
+        {
+            "SUPPLIERID": 656,
+            "Supplier Name": "Livchem Logistics GmbH",
+            "Supplier Shortname": "LivChem",
+            "SUPPLIERCODE": "LVCHM"
+        },
+        {
+            "SUPPLIERID": 657,
+            "Supplier Name": "Shanghai AoBo Bio-pharmaceutical Technology. Co., Ltd.",
+            "Supplier Shortname": "Shanghai AoBo",
+            "SUPPLIERCODE": "SAOBO"
+        },
+        {
+            "SUPPLIERID": 658,
+            "Supplier Name": "LGM Pharma",
+            "Supplier Shortname": "LGM Pharma",
+            "SUPPLIERCODE": "LGMPH"
+        },
+        {
+            "SUPPLIERID": 659,
+            "Supplier Name": "UnaveraChemLab GmbH",
+            "Supplier Shortname": "Unavera",
+            "SUPPLIERCODE": "UNAV"
+        },
+        {
+            "SUPPLIERID": 660,
+            "Supplier Name": "Arran Chemical Co.",
+            "Supplier Shortname": "Arran",
+            "SUPPLIERCODE": "ARRAN"
+        },
+        {
+            "SUPPLIERID": 661,
+            "Supplier Name": "Aaron Chemistry GmbH",
+            "Supplier Shortname": "Aaron",
+            "SUPPLIERCODE": "Aaron"
+        },
+        {
+            "SUPPLIERID": 662,
+            "Supplier Name": "Beijing Century Richap Chemistry Co. Ltd",
+            "Supplier Shortname": "Richap",
+            "SUPPLIERCODE": "BCRCC"
+        },
+        {
+            "SUPPLIERID": 663,
+            "Supplier Name": "Orgapharm-Axyntis Group",
+            "Supplier Shortname": "Axyntis",
+            "SUPPLIERCODE": "AXYNT"
+        },
+        {
+            "SUPPLIERID": 664,
+            "Supplier Name": "PKChem",
+            "Supplier Shortname": "Pkchem",
+            "SUPPLIERCODE": "PKCHE"
+        },
+        {
+            "SUPPLIERID": 665,
+            "Supplier Name": "DyStar LP",
+            "Supplier Shortname": "DyStar",
+            "SUPPLIERCODE": "DySta"
+        },
+        {
+            "SUPPLIERID": 666,
+            "Supplier Name": "Northeast Pharmaceutical Group Co. Ltd",
+            "Supplier Shortname": "NEPharmChem",
+            "SUPPLIERCODE": "NEPG"
+        },
+        {
+            "SUPPLIERID": 667,
+            "Supplier Name": "Bio Farma Ltd.",
+            "Supplier Shortname": "BioFarma",
+            "SUPPLIERCODE": "BIFRM"
+        },
+        {
+            "SUPPLIERID": 668,
+            "Supplier Name": "Zylexa Pharma LTD",
+            "Supplier Shortname": "Zylexa",
+            "SUPPLIERCODE": "Zylex"
+        },
+        {
+            "SUPPLIERID": 669,
+            "Supplier Name": "Syntide Medi-chem Technology Co. Ltd",
+            "Supplier Shortname": "Syntide",
+            "SUPPLIERCODE": "Syntd"
+        },
+        {
+            "SUPPLIERID": 670,
+            "Supplier Name": "Watec Laboratories, Inc.",
+            "Supplier Shortname": "Watec",
+            "SUPPLIERCODE": "Watec"
+        },
+        {
+            "SUPPLIERID": 671,
+            "Supplier Name": "BOC Sciences",
+            "Supplier Shortname": "BOC",
+            "SUPPLIERCODE": "BOC"
+        },
+        {
+            "SUPPLIERID": 672,
+            "Supplier Name": "Wonda Science Inc.",
+            "Supplier Shortname": "WondaScience",
+            "SUPPLIERCODE": "Wonda"
+        },
+        {
+            "SUPPLIERID": 673,
+            "Supplier Name": "Novochemy Limited",
+            "Supplier Shortname": "NOVA",
+            "SUPPLIERCODE": "NOVA"
+        },
+        {
+            "SUPPLIERID": 674,
+            "Supplier Name": "ChemBasics Pty Ltd",
+            "Supplier Shortname": "ChemBasic",
+            "SUPPLIERCODE": "Cbasi"
+        },
+        {
+            "SUPPLIERID": 675,
+            "Supplier Name": "CancerPharm Group",
+            "Supplier Shortname": "CancerPharm",
+            "SUPPLIERCODE": "Cphar"
+        },
+        {
+            "SUPPLIERID": 676,
+            "Supplier Name": "Lanzhou Tech Biochemical Co. Ltd",
+            "Supplier Shortname": "Lanzhou Tech",
+            "SUPPLIERCODE": "LTBCL"
+        },
+        {
+            "SUPPLIERID": 677,
+            "Supplier Name": "3A Pharmatech, LLC.",
+            "Supplier Shortname": "3A Pharmatech",
+            "SUPPLIERCODE": "3Apha"
+        },
+        {
+            "SUPPLIERID": 678,
+            "Supplier Name": "Small Molecules, Inc.",
+            "Supplier Shortname": "Small Molecules",
+            "SUPPLIERCODE": "SmMol"
+        },
+        {
+            "SUPPLIERID": 679,
+            "Supplier Name": "PhytoLab GmbH & Co. KG",
+            "Supplier Shortname": "PhytoLab GmbH",
+            "SUPPLIERCODE": "Phyto"
+        },
+        {
+            "SUPPLIERID": 680,
+            "Supplier Name": "Apexmol Technology Co., Ltd",
+            "Supplier Shortname": "Apexmol",
+            "SUPPLIERCODE": "Apex"
+        },
+        {
+            "SUPPLIERID": 681,
+            "Supplier Name": "Framochem (Chaysechem, NA distributor)",
+            "Supplier Shortname": "Framochem",
+            "SUPPLIERCODE": "Framo"
+        },
+        {
+            "SUPPLIERID": 682,
+            "Supplier Name": "Shanghai Excellent Chemical Co. Ltd.",
+            "Supplier Shortname": "ShangEx",
+            "SUPPLIERCODE": "ShExC"
+        },
+        {
+            "SUPPLIERID": 683,
+            "Supplier Name": "bestiPharma, Inc.",
+            "Supplier Shortname": "BestiPharma",
+            "SUPPLIERCODE": "besti"
+        },
+        {
+            "SUPPLIERID": 684,
+            "Supplier Name": "Syncozymes (Shanghai) Co.,Ltd.",
+            "Supplier Shortname": "Syncozymes",
+            "SUPPLIERCODE": "SYNCO"
+        },
+        {
+            "SUPPLIERID": 685,
+            "Supplier Name": "Vitas-M Laboratory, LTD",
+            "Supplier Shortname": "Vitas-M",
+            "SUPPLIERCODE": "VITAS"
+        },
+        {
+            "SUPPLIERID": 403,
+            "Supplier Name": "TC Chemicals Co., Ltd.",
+            "Supplier Shortname": "TC Chemicals",
+            "SUPPLIERCODE": "TCHEM"
+        },
+        {
+            "SUPPLIERID": 404,
+            "Supplier Name": "Endotherm GmbH",
+            "Supplier Shortname": "Endotherm GmbH",
+            "SUPPLIERCODE": "ENDOG"
+        },
+        {
+            "SUPPLIERID": 405,
+            "Supplier Name": "Loba Feinchemie AG",
+            "Supplier Shortname": "Loba Feinchemie",
+            "SUPPLIERCODE": "LOBAF"
+        },
+        {
+            "SUPPLIERID": 406,
+            "Supplier Name": "Shanghai International Pharmaceutical Co., Ltd",
+            "Supplier Shortname": "Shanghai Pharm",
+            "SUPPLIERCODE": "SIPC"
+        },
+        {
+            "SUPPLIERID": 407,
+            "Supplier Name": "Pentagon Chemicals",
+            "Supplier Shortname": "Pentagon Chemicals",
+            "SUPPLIERCODE": "PENTC"
+        },
+        {
+            "SUPPLIERID": 686,
+            "Supplier Name": "PerkinElmer Chemicals",
+            "Supplier Shortname": "PerkinElmer",
+            "SUPPLIERCODE": "PEC"
+        },
+        {
+            "SUPPLIERID": 687,
+            "Supplier Name": "Namiki-Shoji Co. Ltd.",
+            "Supplier Shortname": "Namiki Shoji",
+            "SUPPLIERCODE": "Namik"
+        },
+        {
+            "SUPPLIERID": 688,
+            "Supplier Name": "Anward Chemicals",
+            "Supplier Shortname": "Anward chem",
+            "SUPPLIERCODE": "Anwar"
+        },
+        {
+            "SUPPLIERID": 689,
+            "Supplier Name": "Acinopeptide Co., LTD",
+            "Supplier Shortname": "Acinopeptide",
+            "SUPPLIERCODE": "Acino"
+        },
+        {
+            "SUPPLIERID": 690,
+            "Supplier Name": "American Peptide Company, Inc.",
+            "Supplier Shortname": "APC",
+            "SUPPLIERCODE": "APC"
+        },
+        {
+            "SUPPLIERID": 691,
+            "Supplier Name": "DiverChim",
+            "Supplier Shortname": "Diverchim",
+            "SUPPLIERCODE": "Diver"
+        },
+        {
+            "SUPPLIERID": 693,
+            "Supplier Name": "Vesino Industrial Co., Ltd.",
+            "Supplier Shortname": "Vesino Industrial",
+            "SUPPLIERCODE": "Vesin"
+        },
+        {
+            "SUPPLIERID": 694,
+            "Supplier Name": "Chembo Pharma Company Limited",
+            "Supplier Shortname": "ChemboPharma",
+            "SUPPLIERCODE": "chemb"
+        },
+        {
+            "SUPPLIERID": 695,
+            "Supplier Name": "Apitoxin",
+            "Supplier Shortname": "Apitoxin",
+            "SUPPLIERCODE": "Apito"
+        },
+        {
+            "SUPPLIERID": 696,
+            "Supplier Name": "Chiralstar, Inc.",
+            "Supplier Shortname": "Chiralstar",
+            "SUPPLIERCODE": "Cstar"
+        },
+        {
+            "SUPPLIERID": 697,
+            "Supplier Name": "AEchem Scientific Corporation, USA",
+            "Supplier Shortname": "Aechem",
+            "SUPPLIERCODE": "Aeche"
+        },
+        {
+            "SUPPLIERID": 698,
+            "Supplier Name": "8s Laboratories LLC",
+            "Supplier Shortname": "8slab",
+            "SUPPLIERCODE": "8slab"
+        },
+        {
+            "SUPPLIERID": 699,
+            "Supplier Name": "Achemica",
+            "Supplier Shortname": "Achemica",
+            "SUPPLIERCODE": "Achem"
+        },
+        {
+            "SUPPLIERID": 700,
+            "Supplier Name": "Annker Organics Co., Ltd.",
+            "Supplier Shortname": "AnnkerOrganics",
+            "SUPPLIERCODE": "Annke"
+        },
+        {
+            "SUPPLIERID": 701,
+            "Supplier Name": "Synganix Science Inc",
+            "Supplier Shortname": "Synganix",
+            "SUPPLIERCODE": "SYNGA"
+        },
+        {
+            "SUPPLIERID": 702,
+            "Supplier Name": "Danyang Hengan Chemical CO.,LTD.",
+            "Supplier Shortname": "Hengan",
+            "SUPPLIERCODE": "HACHE"
+        },
+        {
+            "SUPPLIERID": 703,
+            "Supplier Name": "A1 BioChem Labs",
+            "Supplier Shortname": "A1Biochem",
+            "SUPPLIERCODE": "A1Bio"
+        },
+        {
+            "SUPPLIERID": 704,
+            "Supplier Name": "Aldlab Chemicals, LLC",
+            "Supplier Shortname": "Aldlab",
+            "SUPPLIERCODE": "Aldla"
+        },
+        {
+            "SUPPLIERID": 705,
+            "Supplier Name": "Hande Sciences US",
+            "Supplier Shortname": "Hande Sciences",
+            "SUPPLIERCODE": "hande"
+        },
+        {
+            "SUPPLIERID": 706,
+            "Supplier Name": "Bide Pharmatech Ltd",
+            "Supplier Shortname": "Bide Pharmatech",
+            "SUPPLIERCODE": "Bide"
+        },
+        {
+            "SUPPLIERID": 707,
+            "Supplier Name": "Fluorochem UK Limited",
+            "Supplier Shortname": "FluoroChem UK",
+            "SUPPLIERCODE": "FLUOR"
+        },
+        {
+            "SUPPLIERID": 708,
+            "Supplier Name": "OXCHEM CORPORTION",
+            "Supplier Shortname": "OXCHEM CORPORTION",
+            "SUPPLIERCODE": "OXCHE"
+        },
+        {
+            "SUPPLIERID": 709,
+            "Supplier Name": "American Biochemicals, Inc.",
+            "Supplier Shortname": "American Biochemical",
+            "SUPPLIERCODE": "AMERI"
+        },
+        {
+            "SUPPLIERID": 710,
+            "Supplier Name": "Synovel Laboratory Co.,Ltd.",
+            "Supplier Shortname": "Synovel Laboratory",
+            "SUPPLIERCODE": "SYNVE"
+        },
+        {
+            "SUPPLIERID": 711,
+            "Supplier Name": "Suzhou Ryan Pharmachem Technology Co.,Ltd.",
+            "Supplier Shortname": "Suzhou Ryan",
+            "SUPPLIERCODE": "suzh"
+        },
+        {
+            "SUPPLIERID": 712,
+            "Supplier Name": "Megazyme International",
+            "Supplier Shortname": "Megazyme",
+            "SUPPLIERCODE": "Megaz"
+        },
+        {
+            "SUPPLIERID": 713,
+            "Supplier Name": "Molekula",
+            "Supplier Shortname": "Molekula",
+            "SUPPLIERCODE": "Molek"
+        },
+        {
+            "SUPPLIERID": 714,
+            "Supplier Name": "Academique Phytocanada",
+            "Supplier Shortname": "PhytoCanada",
+            "SUPPLIERCODE": "PhyCa"
+        },
+        {
+            "SUPPLIERID": 715,
+            "Supplier Name": "AZEPINE Ltd.",
+            "Supplier Shortname": "Azepine",
+            "SUPPLIERCODE": "Azep"
+        },
+        {
+            "SUPPLIERID": 716,
+            "Supplier Name": "Corvinus Chemicals, LLC.",
+            "Supplier Shortname": "Corvinus",
+            "SUPPLIERCODE": "Corvi"
+        },
+        {
+            "SUPPLIERID": 717,
+            "Supplier Name": "Discovery Molecules, LLC",
+            "Supplier Shortname": "Discovery",
+            "SUPPLIERCODE": "Disco"
+        },
+        {
+            "SUPPLIERID": 718,
+            "Supplier Name": "Cerilliant Corporation",
+            "Supplier Shortname": "Cerilliant",
+            "SUPPLIERCODE": "Ceril"
+        },
+        {
+            "SUPPLIERID": 719,
+            "Supplier Name": "Kingscientific",
+            "Supplier Shortname": "Kingscientific",
+            "SUPPLIERCODE": "Kinsc"
+        },
+        {
+            "SUPPLIERID": 720,
+            "Supplier Name": "Vetec Química Fina Ltda.",
+            "Supplier Shortname": "Vetec quimica",
+            "SUPPLIERCODE": "Vetec"
+        },
+        {
+            "SUPPLIERID": 721,
+            "Supplier Name": "Selleckchem",
+            "Supplier Shortname": "Selleckchem",
+            "SUPPLIERCODE": "Selle"
+        },
+        {
+            "SUPPLIERID": 722,
+            "Supplier Name": "SynInnova Laboratories Inc.,",
+            "Supplier Shortname": "SynInnova",
+            "SUPPLIERCODE": "SYNIN"
+        },
+        {
+            "SUPPLIERID": 723,
+            "Supplier Name": "A&J Pharmtech CO., LTD.",
+            "Supplier Shortname": "A&J Pharmtech",
+            "SUPPLIERCODE": "A&JPh"
+        },
+        {
+            "SUPPLIERID": 724,
+            "Supplier Name": "Organochem, Ltd",
+            "Supplier Shortname": "Organochem, Ltd",
+            "SUPPLIERCODE": "Organ"
+        },
+        {
+            "SUPPLIERID": 725,
+            "Supplier Name": "Chemcia Scientific, LLC",
+            "Supplier Shortname": "Chemcia LLc",
+            "SUPPLIERCODE": "Chemc"
+        },
+        {
+            "SUPPLIERID": 761,
+            "Supplier Name": "FCH Group",
+            "Supplier Shortname": "FCH Group",
+            "SUPPLIERCODE": "FCH"
+        },
+        {
+            "SUPPLIERID": 0,
+            "Supplier Name": "Chemfinder.com",
+            "Supplier Shortname": "CS",
+            "SUPPLIERCODE": "CS"
+        },
+        {
+            "SUPPLIERID": 1,
+            "Supplier Name": "Pharmacia & Upjohn Company",
+            "Supplier Shortname": "Pharmacia",
+            "SUPPLIERCODE": "PUPJN"
+        },
+        {
+            "SUPPLIERID": 3,
+            "Supplier Name": "Advanced ChemTech",
+            "Supplier Shortname": "Adv. ChemTech",
+            "SUPPLIERCODE": "ADCT"
+        },
+        {
+            "SUPPLIERID": 4,
+            "Supplier Name": "AccuStandard, Inc.",
+            "Supplier Shortname": "AccuStandard",
+            "SUPPLIERCODE": "ACCUS"
+        },
+        {
+            "SUPPLIERID": 5,
+            "Supplier Name": "Air Products & Chemicals, Inc.",
+            "Supplier Shortname": "Air Products",
+            "SUPPLIERCODE": "AIRP"
+        },
+        {
+            "SUPPLIERID": 6,
+            "Supplier Name": "Albemarle Corporation",
+            "Supplier Shortname": "Albemarle",
+            "SUPPLIERCODE": "ALBE"
+        },
+        {
+            "SUPPLIERID": 7,
+            "Supplier Name": "Albright & Wilson Americas",
+            "Supplier Shortname": "Albright & Wilson",
+            "SUPPLIERCODE": "ALBW"
+        },
+        {
+            "SUPPLIERID": 8,
+            "Supplier Name": "Bush Boake Allen Inc.",
+            "Supplier Shortname": "Bush Boake Allen",
+            "SUPPLIERCODE": "BBA"
+        },
+        {
+            "SUPPLIERID": 9,
+            "Supplier Name": "Bedoukian Research, Inc.",
+            "Supplier Shortname": "Bedoukian",
+            "SUPPLIERCODE": "BEDO"
+        },
+        {
+            "SUPPLIERID": 10,
+            "Supplier Name": "Zeneca Specialties",
+            "Supplier Shortname": "Zeneca",
+            "SUPPLIERCODE": "ZENCA"
+        },
+        {
+            "SUPPLIERID": 11,
+            "Supplier Name": "Biomol",
+            "Supplier Shortname": "Biomol",
+            "SUPPLIERCODE": "BIOM"
+        },
+        {
+            "SUPPLIERID": 12,
+            "Supplier Name": "Biosynth AG",
+            "Supplier Shortname": "Biosynth",
+            "SUPPLIERCODE": "BIOS"
+        },
+        {
+            "SUPPLIERID": 13,
+            "Supplier Name": "Burdick & Jackson, Inc.",
+            "Supplier Shortname": "Burdick & Jackson",
+            "SUPPLIERCODE": "B&J"
+        },
+        {
+            "SUPPLIERID": 14,
+            "Supplier Name": "ChemDesign Corp. (A Bayer Company)",
+            "Supplier Shortname": "ChemDesign",
+            "SUPPLIERCODE": "CHMD"
+        },
+        {
+            "SUPPLIERID": 15,
+            "Supplier Name": "Classic Flavors & Fragrances",
+            "Supplier Shortname": "Classic FF",
+            "SUPPLIERCODE": "CLSFF"
+        },
+        {
+            "SUPPLIERID": 16,
+            "Supplier Name": "Daikin Industries Ltd",
+            "Supplier Shortname": "Daikin",
+            "SUPPLIERCODE": "DAIKN"
+        },
+        {
+            "SUPPLIERID": 17,
+            "Supplier Name": "Davos Chemical Corp.",
+            "Supplier Shortname": "Davos",
+            "SUPPLIERCODE": "DAVOS"
+        },
+        {
+            "SUPPLIERID": 18,
+            "Supplier Name": "Digital Specialty Chemicals, Inc.",
+            "Supplier Shortname": "Digital",
+            "SUPPLIERCODE": "DSCHM"
+        },
+        {
+            "SUPPLIERID": 19,
+            "Supplier Name": "DSM Fine Chemicals Inc.",
+            "Supplier Shortname": "DSM",
+            "SUPPLIERCODE": "DSMFC"
+        },
+        {
+            "SUPPLIERID": 20,
+            "Supplier Name": "Elan Chemical Company, Inc.",
+            "Supplier Shortname": "Elan",
+            "SUPPLIERCODE": "ELAN"
+        },
+        {
+            "SUPPLIERID": 21,
+            "Supplier Name": "Dottikon Exclusive Synthesis AG",
+            "Supplier Shortname": "EMS Dottikon",
+            "SUPPLIERCODE": "EMSD"
+        },
+        {
+            "SUPPLIERID": 22,
+            "Supplier Name": "Organica Feinchemie GmbH Wolfen",
+            "Supplier Shortname": "Organica",
+            "SUPPLIERCODE": "ORGFC"
+        },
+        {
+            "SUPPLIERID": 23,
+            "Supplier Name": "First Chemical Corp.",
+            "Supplier Shortname": "First Chemical",
+            "SUPPLIERCODE": "FIRST"
+        },
+        {
+            "SUPPLIERID": 24,
+            "Supplier Name": "Frinton Laboratories",
+            "Supplier Shortname": "Frinton",
+            "SUPPLIERCODE": "FRINT"
+        },
+        {
+            "SUPPLIERID": 25,
+            "Supplier Name": "Alfa Aesar",
+            "Supplier Shortname": "Alfa Aesar",
+            "SUPPLIERCODE": "ALFA"
+        },
+        {
+            "SUPPLIERID": 26,
+            "Supplier Name": "Generichem Corporation",
+            "Supplier Shortname": "Generichem",
+            "SUPPLIERCODE": "GNCHM"
+        },
+        {
+            "SUPPLIERID": 27,
+            "Supplier Name": "GFS Chemicals, Inc.",
+            "Supplier Shortname": "GFS",
+            "SUPPLIERCODE": "GFS"
+        },
+        {
+            "SUPPLIERID": 29,
+            "Supplier Name": "Interchem Corp.",
+            "Supplier Shortname": "Interchem",
+            "SUPPLIERCODE": "INTCH"
+        },
+        {
+            "SUPPLIERID": 30,
+            "Supplier Name": "Isotec Inc.",
+            "Supplier Shortname": "Isotec",
+            "SUPPLIERCODE": "ISOTK"
+        },
+        {
+            "SUPPLIERID": 31,
+            "Supplier Name": "ISP Fine Chemicals (formerly GAF)",
+            "Supplier Shortname": "ISP",
+            "SUPPLIERCODE": "ISPFC"
+        },
+        {
+            "SUPPLIERID": 32,
+            "Supplier Name": "Jost Chemical",
+            "Supplier Shortname": "Jost",
+            "SUPPLIERCODE": "JOST"
+        },
+        {
+            "SUPPLIERID": 33,
+            "Supplier Name": "Katwijk Chemie bv",
+            "Supplier Shortname": "Katwijk",
+            "SUPPLIERCODE": "KTWJK"
+        },
+        {
+            "SUPPLIERID": 34,
+            "Supplier Name": "Kemira Fine Chemicals",
+            "Supplier Shortname": "Kemira",
+            "SUPPLIERCODE": "KEMRA"
+        },
+        {
+            "SUPPLIERID": 35,
+            "Supplier Name": "Molecular BioSciences",
+            "Supplier Shortname": "Mol. BioSci.",
+            "SUPPLIERCODE": "MBIOS"
+        },
+        {
+            "SUPPLIERID": 36,
+            "Supplier Name": "Morton International, Inc.",
+            "Supplier Shortname": "Morton",
+            "SUPPLIERCODE": "MORTN"
+        },
+        {
+            "SUPPLIERID": 37,
+            "Supplier Name": "Nipa Hardwicke Inc.",
+            "Supplier Shortname": "Nipa Hardwicke",
+            "SUPPLIERCODE": "NIPA"
+        },
+        {
+            "SUPPLIERID": 38,
+            "Supplier Name": "Norchim S.A.",
+            "Supplier Shortname": "Norchim",
+            "SUPPLIERCODE": "NORCH"
+        },
+        {
+            "SUPPLIERID": 39,
+            "Supplier Name": "Norquay Technology Inc. USA",
+            "Supplier Shortname": "Norquay",
+            "SUPPLIERCODE": "NORQ"
+        },
+        {
+            "SUPPLIERID": 40,
+            "Supplier Name": "NSC Technologies",
+            "Supplier Shortname": "NSC 'Tech.",
+            "SUPPLIERCODE": "NSCTK"
+        },
+        {
+            "SUPPLIERID": 41,
+            "Supplier Name": "OmegaChem, Inc.",
+            "Supplier Shortname": "Omega",
+            "SUPPLIERCODE": "OMEGA"
+        },
+        {
+            "SUPPLIERID": 42,
+            "Supplier Name": "Organix, Inc.",
+            "Supplier Shortname": "Organix",
+            "SUPPLIERCODE": "ORGNX"
+        },
+        {
+            "SUPPLIERID": 43,
+            "Supplier Name": "PPG-SIPSY",
+            "Supplier Shortname": "PPG-SIPSY",
+            "SUPPLIERCODE": "PPG"
+        },
+        {
+            "SUPPLIERID": 726,
+            "Supplier Name": "ZereneX BioACtives",
+            "Supplier Shortname": "ZereneX BioACtives",
+            "SUPPLIERCODE": "ZbioA"
+        },
+        {
+            "SUPPLIERID": 727,
+            "Supplier Name": "Mcule",
+            "Supplier Shortname": "mcule",
+            "SUPPLIERCODE": "mcule"
+        },
+        {
+            "SUPPLIERID": 728,
+            "Supplier Name": "Santiago",
+            "Supplier Shortname": "Santiago",
+            "SUPPLIERCODE": "Santi"
+        },
+        {
+            "SUPPLIERID": 729,
+            "Supplier Name": "Hanshan Agilebiochem Co., Ltd",
+            "Supplier Shortname": "Hanshen",
+            "SUPPLIERCODE": "Hansh"
+        },
+        {
+            "SUPPLIERID": 730,
+            "Supplier Name": "FlexChem BV",
+            "Supplier Shortname": "Flexchem",
+            "SUPPLIERCODE": "flex"
+        },
+        {
+            "SUPPLIERID": 731,
+            "Supplier Name": "Suntto Chemicals Co., Ltd",
+            "Supplier Shortname": "Suntto",
+            "SUPPLIERCODE": "Suntt"
+        },
+        {
+            "SUPPLIERID": 732,
+            "Supplier Name": "Clearsynth INC.",
+            "Supplier Shortname": "Clearsynth",
+            "SUPPLIERCODE": "Clear"
+        },
+        {
+            "SUPPLIERID": 733,
+            "Supplier Name": "Shandong Youbang Biochemical Technology Co., LTD.",
+            "Supplier Shortname": "Shandong Youbang",
+            "SUPPLIERCODE": "Shand"
+        },
+        {
+            "SUPPLIERID": 734,
+            "Supplier Name": "XPR Industrial(China)Limited",
+            "Supplier Shortname": "XPRIndustrial",
+            "SUPPLIERCODE": "XPRIN"
+        },
+        {
+            "SUPPLIERID": 735,
+            "Supplier Name": "Element Store",
+            "Supplier Shortname": "Element Store",
+            "SUPPLIERCODE": "Eleme"
+        },
+        {
+            "SUPPLIERID": 736,
+            "Supplier Name": "Tenova Pharmaceuticals Inc",
+            "Supplier Shortname": "Tenova Pharma",
+            "SUPPLIERCODE": "TENOV"
+        },
+        {
+            "SUPPLIERID": 737,
+            "Supplier Name": "SpiroChem AG",
+            "Supplier Shortname": "SpiroChem",
+            "SUPPLIERCODE": "Spiro"
+        },
+        {
+            "SUPPLIERID": 738,
+            "Supplier Name": "Pure Chemistry Scientific Inc.",
+            "Supplier Shortname": "Pure Chem",
+            "SUPPLIERCODE": "Purec"
+        },
+        {
+            "SUPPLIERID": 739,
+            "Supplier Name": "Molepedia.Co., Ltd",
+            "Supplier Shortname": "Molepedia",
+            "SUPPLIERCODE": "MOLEP"
+        },
+        {
+            "SUPPLIERID": 740,
+            "Supplier Name": "Biochempeg Scientific Inc.",
+            "Supplier Shortname": "Biochempeg",
+            "SUPPLIERCODE": "Bioch"
+        },
+        {
+            "SUPPLIERID": 741,
+            "Supplier Name": "BSC Chemicals",
+            "Supplier Shortname": "BSCChemicals",
+            "SUPPLIERCODE": "BSCC"
+        },
+        {
+            "SUPPLIERID": 742,
+            "Supplier Name": "KeyIntermediate",
+            "Supplier Shortname": "KeyIntermed",
+            "SUPPLIERCODE": "KeyI"
+        },
+        {
+            "SUPPLIERID": 743,
+            "Supplier Name": "Polysciences, Inc.",
+            "Supplier Shortname": "Polysciences",
+            "SUPPLIERCODE": "Polys"
+        },
+        {
+            "SUPPLIERID": 744,
+            "Supplier Name": "Biocore Pharmtech Limited",
+            "Supplier Shortname": "Biocore Pharmtech",
+            "SUPPLIERCODE": "Bioco"
+        },
+        {
+            "SUPPLIERID": 745,
+            "Supplier Name": "LabNetwork",
+            "Supplier Shortname": "LabNetwork",
+            "SUPPLIERCODE": "labne"
+        },
+        {
+            "SUPPLIERID": 746,
+            "Supplier Name": "Peng Teng Shanghai Fien Chemical Co.",
+            "Supplier Shortname": "PengTeng",
+            "SUPPLIERCODE": "PengT"
+        },
+        {
+            "SUPPLIERID": 747,
+            "Supplier Name": "AOBChem USA",
+            "Supplier Shortname": "AOBChemUSA",
+            "SUPPLIERCODE": "AOBCH"
+        },
+        {
+            "SUPPLIERID": 748,
+            "Supplier Name": "Wonderchem Co., Limited",
+            "Supplier Shortname": "Wonderchem",
+            "SUPPLIERCODE": "Wonde"
+        },
+        {
+            "SUPPLIERID": 749,
+            "Supplier Name": "Reaxon GbR",
+            "Supplier Shortname": "Reaxon",
+            "SUPPLIERCODE": "Reaxn"
+        },
+        {
+            "SUPPLIERID": 750,
+            "Supplier Name": "AbovChem LLC",
+            "Supplier Shortname": "AbovChem LLC",
+            "SUPPLIERCODE": "AbovC"
+        },
+        {
+            "SUPPLIERID": 752,
+            "Supplier Name": "TripleBond Corporation",
+            "Supplier Shortname": "TripleBond",
+            "SUPPLIERCODE": "Tripl"
+        },
+        {
+            "SUPPLIERID": 754,
+            "Supplier Name": "AURUM Pharmatech LLC",
+            "Supplier Shortname": "AURUM Pharmatech LLC",
+            "SUPPLIERCODE": "Aurum"
+        },
+        {
+            "SUPPLIERID": 755,
+            "Supplier Name": "Kishida building Blocks",
+            "Supplier Shortname": "Kishda BB",
+            "SUPPLIERCODE": "Kish"
+        },
+        {
+            "SUPPLIERID": 756,
+            "Supplier Name": "Boerchem Pharmtech Co., Ltd",
+            "Supplier Shortname": "Boerchem",
+            "SUPPLIERCODE": "Boer"
+        },
+        {
+            "SUPPLIERID": 757,
+            "Supplier Name": "Hangzhou Yuhao Chemical Technology Co., Ltd",
+            "Supplier Shortname": "Yuhao chem",
+            "SUPPLIERCODE": "Yahao"
+        },
+        {
+            "SUPPLIERID": 759,
+            "Supplier Name": "InterBioScreen Ltd. (Screening compounds)",
+            "Supplier Shortname": "Interbio",
+            "SUPPLIERCODE": "inter"
+        },
+        {
+            "SUPPLIERID": 760,
+            "Supplier Name": "ontario pharma research chemicals",
+            "Supplier Shortname": "Ontario",
+            "SUPPLIERCODE": "Ontar"
+        },
+        {
+            "SUPPLIERID": 44,
+            "Supplier Name": "Reilly Industries, Inc.",
+            "Supplier Shortname": "Reilly",
+            "SUPPLIERCODE": "REILY"
+        },
+        {
+            "SUPPLIERID": 45,
+            "Supplier Name": "Robinson Brothers Limited",
+            "Supplier Shortname": "Robinson Bros.",
+            "SUPPLIERCODE": "ROBSB"
+        },
+        {
+            "SUPPLIERID": 46,
+            "Supplier Name": "Ruetgers-Nease Corporation",
+            "Supplier Shortname": "Ruetgers-Nease",
+            "SUPPLIERCODE": "RUTNS"
+        },
+        {
+            "SUPPLIERID": 47,
+            "Supplier Name": "Säurefabrik Schweizerhall (SF-Chem)",
+            "Supplier Shortname": "Säurefabrik",
+            "SUPPLIERCODE": "SAURS"
+        },
+        {
+            "SUPPLIERID": 48,
+            "Supplier Name": "Takasago International Corp.",
+            "Supplier Shortname": "Takasago",
+            "SUPPLIERCODE": "TAKAS"
+        },
+        {
+            "SUPPLIERID": 49,
+            "Supplier Name": "Wacker Chemicals (USA)",
+            "Supplier Shortname": "Wacker",
+            "SUPPLIERCODE": "WACKR"
+        },
+        {
+            "SUPPLIERID": 50,
+            "Supplier Name": "William Blythe Ltd",
+            "Supplier Shortname": "Wm. Blythe",
+            "SUPPLIERCODE": "WMBLY"
+        },
+        {
+            "SUPPLIERID": 51,
+            "Supplier Name": "Zambon Group",
+            "Supplier Shortname": "Zambon",
+            "SUPPLIERCODE": "ZAMBO"
+        },
+        {
+            "SUPPLIERID": 53,
+            "Supplier Name": "Aldrich",
+            "Supplier Shortname": "Aldrich",
+            "SUPPLIERCODE": "ALD"
+        },
+        {
+            "SUPPLIERID": 52,
+            "Supplier Name": "Acros Organics",
+            "Supplier Shortname": "Acros Organics",
+            "SUPPLIERCODE": "ACRI"
+        },
+        {
+            "SUPPLIERID": 58,
+            "Supplier Name": "Fisher Scientific (U.S.)",
+            "Supplier Shortname": "Fisher",
+            "SUPPLIERCODE": "FISH"
+        },
+        {
+            "SUPPLIERID": 59,
+            "Supplier Name": "Fluka Chemical Corp.",
+            "Supplier Shortname": "Fluka",
+            "SUPPLIERCODE": "FLUKA"
+        },
+        {
+            "SUPPLIERID": 60,
+            "Supplier Name": "Lancaster Synthesis Inc.",
+            "Supplier Shortname": "Lancaster",
+            "SUPPLIERCODE": "LANC"
+        },
+        {
+            "SUPPLIERID": 63,
+            "Supplier Name": "KingChem Inc.",
+            "Supplier Shortname": "KingChem",
+            "SUPPLIERCODE": "KING"
+        },
+        {
+            "SUPPLIERID": 65,
+            "Supplier Name": "Menai Organics",
+            "Supplier Shortname": "Menai",
+            "SUPPLIERCODE": "MENAI"
+        },
+        {
+            "SUPPLIERID": 66,
+            "Supplier Name": "Bayer Corporation",
+            "Supplier Shortname": "Bayer",
+            "SUPPLIERCODE": "BAYER"
+        },
+        {
+            "SUPPLIERID": 67,
+            "Supplier Name": "Carbomer Inc.",
+            "Supplier Shortname": "Carbomer",
+            "SUPPLIERCODE": "CARBO"
+        },
+        {
+            "SUPPLIERID": 68,
+            "Supplier Name": "Halocarbon Products Corp.",
+            "Supplier Shortname": "Halocarbon",
+            "SUPPLIERCODE": "HALOC"
+        },
+        {
+            "SUPPLIERID": 69,
+            "Supplier Name": "Diaz Chemical Corporation -- OUT OF BUSINESS",
+            "Supplier Shortname": "Diaz",
+            "SUPPLIERCODE": "DIAZ"
+        },
+        {
+            "SUPPLIERID": 70,
+            "Supplier Name": "ChemPacific Corporation",
+            "Supplier Shortname": "ChemPacific",
+            "SUPPLIERCODE": "CHMPC"
+        },
+        {
+            "SUPPLIERID": 71,
+            "Supplier Name": "Fuji Hunt Specialty Products",
+            "Supplier Shortname": "FujiHunt",
+            "SUPPLIERCODE": "FUJIH"
+        },
+        {
+            "SUPPLIERID": 72,
+            "Supplier Name": "FrutArom Ltd (aroma chemicals)",
+            "Supplier Shortname": "FrutAromLtd",
+            "SUPPLIERCODE": "FAARM"
+        },
+        {
+            "SUPPLIERID": 73,
+            "Supplier Name": "FrutArom (laboratory chemicals)",
+            "Supplier Shortname": "FrutArom",
+            "SUPPLIERCODE": "FALAB"
+        },
+        {
+            "SUPPLIERID": 74,
+            "Supplier Name": "Synthetech",
+            "Supplier Shortname": "Synthetech",
+            "SUPPLIERCODE": "SYNTK"
+        },
+        {
+            "SUPPLIERID": 75,
+            "Supplier Name": "Callery Chemical Company",
+            "Supplier Shortname": "Callery",
+            "SUPPLIERCODE": "CALRY"
+        },
+        {
+            "SUPPLIERID": 76,
+            "Supplier Name": "Frontier Scientific, Inc.",
+            "Supplier Shortname": "Frontier",
+            "SUPPLIERCODE": "FRONT"
+        },
+        {
+            "SUPPLIERID": 78,
+            "Supplier Name": "Celanese, Ltd.",
+            "Supplier Shortname": "Celanese",
+            "SUPPLIERCODE": "CELAN"
+        },
+        {
+            "SUPPLIERID": 79,
+            "Supplier Name": "Tokyo Chemical Industry Co., Ltd.",
+            "Supplier Shortname": "TCI",
+            "SUPPLIERCODE": "TCI"
+        },
+        {
+            "SUPPLIERID": 80,
+            "Supplier Name": "GNI Chemicals Corporation",
+            "Supplier Shortname": "GNI",
+            "SUPPLIERCODE": "GNI"
+        },
+        {
+            "SUPPLIERID": 81,
+            "Supplier Name": "Boulder Scientific Company",
+            "Supplier Shortname": "Boulder",
+            "SUPPLIERCODE": "BOULD"
+        },
+        {
+            "SUPPLIERID": 82,
+            "Supplier Name": "Raschig AG",
+            "Supplier Shortname": "Raschig",
+            "SUPPLIERCODE": "RASCG"
+        },
+        {
+            "SUPPLIERID": 83,
+            "Supplier Name": "BASF Chemical Intermediates",
+            "Supplier Shortname": "BASF",
+            "SUPPLIERCODE": "BASF"
+        },
+        {
+            "SUPPLIERID": 84,
+            "Supplier Name": "Daicel Chemical Industries, Ltd.",
+            "Supplier Shortname": "Daicel",
+            "SUPPLIERCODE": "DAICL"
+        },
+        {
+            "SUPPLIERID": 85,
+            "Supplier Name": "Daiso Co., Ltd.",
+            "Supplier Shortname": "Daiso",
+            "SUPPLIERCODE": "DAISO"
+        },
+        {
+            "SUPPLIERID": 86,
+            "Supplier Name": "Chemtura Corporation",
+            "Supplier Shortname": "Chemtura",
+            "SUPPLIERCODE": "GLKS"
+        },
+        {
+            "SUPPLIERID": 87,
+            "Supplier Name": "Kyowa Hakko Kogyo Co., Ltd.",
+            "Supplier Shortname": "Kyowa Hakko Kogyo",
+            "SUPPLIERCODE": "KHK"
+        },
+        {
+            "SUPPLIERID": 88,
+            "Supplier Name": "Peakdale Fine Chemicals Limited",
+            "Supplier Shortname": "Peakdale",
+            "SUPPLIERCODE": "PKDL"
+        },
+        {
+            "SUPPLIERID": 89,
+            "Supplier Name": "Rhodia Fine Organics",
+            "Supplier Shortname": "Rhodia",
+            "SUPPLIERCODE": "RHOD"
+        },
+        {
+            "SUPPLIERID": 90,
+            "Supplier Name": "Richman Chemical Inc.",
+            "Supplier Shortname": "Richman",
+            "SUPPLIERCODE": "RCHMN"
+        },
+        {
+            "SUPPLIERID": 91,
+            "Supplier Name": "Salford Ultrafine Chemicals & Research Ltd.",
+            "Supplier Shortname": "Salford",
+            "SUPPLIERCODE": "SALFD"
+        },
+        {
+            "SUPPLIERID": 92,
+            "Supplier Name": "Sumitomo Seika Chemicals Co., Ltd.",
+            "Supplier Shortname": "Sumitomo Seika",
+            "SUPPLIERCODE": "SMIMO"
+        },
+        {
+            "SUPPLIERID": 93,
+            "Supplier Name": "Cambrex Corporation",
+            "Supplier Shortname": "Cambrex",
+            "SUPPLIERCODE": "CAMBX"
+        },
+        {
+            "SUPPLIERID": 94,
+            "Supplier Name": "D&O Chemicals, Inc.",
+            "Supplier Shortname": "D&O",
+            "SUPPLIERCODE": "D&O"
+        },
+        {
+            "SUPPLIERID": 95,
+            "Supplier Name": "Cayman Chemical Company",
+            "Supplier Shortname": "Cayman",
+            "SUPPLIERCODE": "CAYMN"
+        },
+        {
+            "SUPPLIERID": 96,
+            "Supplier Name": "Wilshire Chemical Co., Inc.",
+            "Supplier Shortname": "Wilshire",
+            "SUPPLIERCODE": "WLSHR"
+        },
+        {
+            "SUPPLIERID": 98,
+            "Supplier Name": "Ihara Chemical Industry Co., Ltd.",
+            "Supplier Shortname": "Ihara",
+            "SUPPLIERCODE": "IHARA"
+        },
+        {
+            "SUPPLIERID": 99,
+            "Supplier Name": "Charkit Chemical Corporation",
+            "Supplier Shortname": "Charkit",
+            "SUPPLIERCODE": "CHARK"
+        },
+        {
+            "SUPPLIERID": 100,
+            "Supplier Name": "Mitsui Chemicals, Inc.",
+            "Supplier Shortname": "Mitsui",
+            "SUPPLIERCODE": "MITSU"
+        },
+        {
+            "SUPPLIERID": 101,
+            "Supplier Name": "Ihara Nikkei Chemical Industry Co., Ltd.",
+            "Supplier Shortname": "Ihara Nikkei",
+            "SUPPLIERCODE": "INIKK"
+        },
+        {
+            "SUPPLIERID": 102,
+            "Supplier Name": "K-I Chemical Industry Co., Ltd.",
+            "Supplier Shortname": "K-I",
+            "SUPPLIERCODE": "KICHM"
+        },
+        {
+            "SUPPLIERID": 103,
+            "Supplier Name": "Morflex, Inc.",
+            "Supplier Shortname": "Morflex",
+            "SUPPLIERCODE": "MORFL"
+        },
+        {
+            "SUPPLIERID": 104,
+            "Supplier Name": "PNK United, Inc.",
+            "Supplier Shortname": "PNK",
+            "SUPPLIERCODE": "PNK"
+        },
+        {
+            "SUPPLIERID": 106,
+            "Supplier Name": "Fine Organics Ltd., Seal Sands",
+            "Supplier Shortname": "Fine Organics",
+            "SUPPLIERCODE": "FOSS"
+        },
+        {
+            "SUPPLIERID": 107,
+            "Supplier Name": "Whyte Chemicals Limited",
+            "Supplier Shortname": "Whyte",
+            "SUPPLIERCODE": "WHYTE"
+        },
+        {
+            "SUPPLIERID": 108,
+            "Supplier Name": "VanDeMark Group",
+            "Supplier Shortname": "VanDeMark",
+            "SUPPLIERCODE": "VANDM"
+        },
+        {
+            "SUPPLIERID": 109,
+            "Supplier Name": "ChiroTech Technology Limited",
+            "Supplier Shortname": "ChiroTech",
+            "SUPPLIERCODE": "CHRTK"
+        },
+        {
+            "SUPPLIERID": 110,
+            "Supplier Name": "Dynamit Nobel GmbH",
+            "Supplier Shortname": "Dynamit Nobel",
+            "SUPPLIERCODE": "DNOBL"
+        },
+        {
+            "SUPPLIERID": 111,
+            "Supplier Name": "Rockwood Lithium GmbH",
+            "Supplier Shortname": "Rockwood",
+            "SUPPLIERCODE": "ROCKW"
+        },
+        {
+            "SUPPLIERID": 112,
+            "Supplier Name": "Rohner Ltd.",
+            "Supplier Shortname": "Rohner",
+            "SUPPLIERCODE": "ROHNR"
+        },
+        {
+            "SUPPLIERID": 113,
+            "Supplier Name": "Miteni SpA",
+            "Supplier Shortname": "Miteni",
+            "SUPPLIERCODE": "MITNI"
+        },
+        {
+            "SUPPLIERID": 114,
+            "Supplier Name": "Diosynth b.v.",
+            "Supplier Shortname": "Diosynth",
+            "SUPPLIERCODE": "DOSYN"
+        },
+        {
+            "SUPPLIERID": 115,
+            "Supplier Name": "PolyCarbon Inds., Inc.",
+            "Supplier Shortname": "PolyCarbon",
+            "SUPPLIERCODE": "POLYC"
+        },
+        {
+            "SUPPLIERID": 116,
+            "Supplier Name": "Jupiter Chemicals, Inc.",
+            "Supplier Shortname": "Jupiter",
+            "SUPPLIERCODE": "JUPTR"
+        },
+        {
+            "SUPPLIERID": 117,
+            "Supplier Name": "Oakwood Products, Inc.",
+            "Supplier Shortname": "Oakwood",
+            "SUPPLIERCODE": "OAKWD"
+        },
+        {
+            "SUPPLIERID": 118,
+            "Supplier Name": "G.J. Chemical Company, Inc.",
+            "Supplier Shortname": "G.J",
+            "SUPPLIERCODE": "GJCHM"
+        },
+        {
+            "SUPPLIERID": 120,
+            "Supplier Name": "Degussa Corp.",
+            "Supplier Shortname": "Degussa",
+            "SUPPLIERCODE": "DEGSA"
+        },
+        {
+            "SUPPLIERID": 121,
+            "Supplier Name": "Chiragene Corporation (formerly Celgene)",
+            "Supplier Shortname": "Chiragene",
+            "SUPPLIERCODE": "CHRGN"
+        },
+        {
+            "SUPPLIERID": 122,
+            "Supplier Name": "Research Organics",
+            "Supplier Shortname": "Research Org.",
+            "SUPPLIERCODE": "RESOR"
+        },
+        {
+            "SUPPLIERID": 123,
+            "Supplier Name": "J.T. Baker",
+            "Supplier Shortname": "J.T. Baker",
+            "SUPPLIERCODE": "JTBKR"
+        },
+        {
+            "SUPPLIERID": 124,
+            "Supplier Name": "Mallinckrodt Laboratory Chemicals",
+            "Supplier Shortname": "Mallinckrodt",
+            "SUPPLIERCODE": "MLNKR"
+        },
+        {
+            "SUPPLIERID": 125,
+            "Supplier Name": "Pfaltz & Bauer, Inc.",
+            "Supplier Shortname": "Pfaltz & Bauer",
+            "SUPPLIERCODE": "P&B"
+        },
+        {
+            "SUPPLIERID": 126,
+            "Supplier Name": "Toronto Research Chemicals, Inc.",
+            "Supplier Shortname": "Toronto Research",
+            "SUPPLIERCODE": "TRC"
+        },
+        {
+            "SUPPLIERID": 127,
+            "Supplier Name": "Maybridge Chemical Company, Ltd.",
+            "Supplier Shortname": "Maybridge",
+            "SUPPLIERCODE": "MAYBR"
+        },
+        {
+            "SUPPLIERID": 128,
+            "Supplier Name": "A.G. Scientific",
+            "Supplier Shortname": "A.G. Sci.",
+            "SUPPLIERCODE": "AGS"
+        },
+        {
+            "SUPPLIERID": 129,
+            "Supplier Name": "AlliedSignal Inc. Specialty Chemicals",
+            "Supplier Shortname": "AlliedSignal",
+            "SUPPLIERCODE": "ALSIG"
+        },
+        {
+            "SUPPLIERID": 132,
+            "Supplier Name": "ChemService, Inc.",
+            "Supplier Shortname": "ChemService",
+            "SUPPLIERCODE": "CHMSV"
+        },
+        {
+            "SUPPLIERID": 133,
+            "Supplier Name": "Cilag AG",
+            "Supplier Shortname": "Cilag",
+            "SUPPLIERCODE": "CILAG"
+        },
+        {
+            "SUPPLIERID": 134,
+            "Supplier Name": "Clariant Corporation",
+            "Supplier Shortname": "Clariant",
+            "SUPPLIERCODE": "CLRNT"
+        },
+        {
+            "SUPPLIERID": 136,
+            "Supplier Name": "ChiRex Ltd.",
+            "Supplier Shortname": "ChiRex",
+            "SUPPLIERCODE": "CHRX"
+        },
+        {
+            "SUPPLIERID": 137,
+            "Supplier Name": "D.F. Goldsmith Chemicals & Metals Co.",
+            "Supplier Shortname": "D.F. Goldsmith",
+            "SUPPLIERCODE": "DFGLD"
+        },
+        {
+            "SUPPLIERID": 138,
+            "Supplier Name": "Electron Microscopy Services",
+            "Supplier Shortname": "Electron Micro.",
+            "SUPPLIERCODE": "EMICR"
+        },
+        {
+            "SUPPLIERID": 139,
+            "Supplier Name": "SynChem, Inc.",
+            "Supplier Shortname": "SynChem",
+            "SUPPLIERCODE": "SYNCH"
+        },
+        {
+            "SUPPLIERID": 140,
+            "Supplier Name": "MillionLink (Tianjin) International Trade Co., Ltd.",
+            "Supplier Shortname": "MillionLink",
+            "SUPPLIERCODE": "MILLN"
+        },
+        {
+            "SUPPLIERID": 141,
+            "Supplier Name": "Queen's University of Belfast",
+            "Supplier Shortname": "Queen's University",
+            "SUPPLIERCODE": "QUBEL"
+        },
+        {
+            "SUPPLIERID": 142,
+            "Supplier Name": "RSP Amino Acid Analogues, Inc.",
+            "Supplier Shortname": "RSP",
+            "SUPPLIERCODE": "RSP"
+        },
+        {
+            "SUPPLIERID": 143,
+            "Supplier Name": "Tocris Bioscience",
+            "Supplier Shortname": "Tocris Bioscience",
+            "SUPPLIERCODE": "TOCRS"
+        },
+        {
+            "SUPPLIERID": 144,
+            "Supplier Name": "Trans World Chemicals Inc.",
+            "Supplier Shortname": "Trans World",
+            "SUPPLIERCODE": "TRNSW"
+        },
+        {
+            "SUPPLIERID": 145,
+            "Supplier Name": "Ubichem plc",
+            "Supplier Shortname": "Ubichem",
+            "SUPPLIERCODE": "UBICH"
+        },
+        {
+            "SUPPLIERID": 146,
+            "Supplier Name": "CU Chemie Uetikon",
+            "Supplier Shortname": "Chemie Uetikon",
+            "SUPPLIERCODE": "CHMU"
+        },
+        {
+            "SUPPLIERID": 147,
+            "Supplier Name": "Silar Laboratories - A Division of Wright Corporation",
+            "Supplier Shortname": "Silar",
+            "SUPPLIERCODE": "SILAR"
+        },
+        {
+            "SUPPLIERID": 148,
+            "Supplier Name": "Gelest Inc.",
+            "Supplier Shortname": "Gelest",
+            "SUPPLIERCODE": "GELST"
+        },
+        {
+            "SUPPLIERID": 149,
+            "Supplier Name": "Ajinomoto - Amino Acid Department",
+            "Supplier Shortname": "Ajinomoto",
+            "SUPPLIERCODE": "AJIN"
+        },
+        {
+            "SUPPLIERID": 150,
+            "Supplier Name": "Trifarma SpA",
+            "Supplier Shortname": "Trifarma",
+            "SUPPLIERCODE": "TRIFA"
+        },
+        {
+            "SUPPLIERID": 151,
+            "Supplier Name": "Angelini Fine Chemicals",
+            "Supplier Shortname": "Angelini",
+            "SUPPLIERCODE": "ANGEL"
+        },
+        {
+            "SUPPLIERID": 152,
+            "Supplier Name": "Asahi Glass Company - Fluorochemicals Division",
+            "Supplier Shortname": "Asahi Glass",
+            "SUPPLIERCODE": "ASAHI"
+        },
+        {
+            "SUPPLIERID": 153,
+            "Supplier Name": "Chugai Kasei Co., Ltd.",
+            "Supplier Shortname": "Chugai Kasei",
+            "SUPPLIERCODE": "CHUG"
+        },
+        {
+            "SUPPLIERID": 154,
+            "Supplier Name": "Dinamite Dipharma SpA",
+            "Supplier Shortname": "Dinamite Dipharma",
+            "SUPPLIERCODE": "DPHRM"
+        },
+        {
+            "SUPPLIERID": 155,
+            "Supplier Name": "Ganes Chemicals Inc.",
+            "Supplier Shortname": "Ganes",
+            "SUPPLIERCODE": "GANES"
+        },
+        {
+            "SUPPLIERID": 156,
+            "Supplier Name": "SEAC",
+            "Supplier Shortname": "SEAC",
+            "SUPPLIERCODE": "SEAC"
+        },
+        {
+            "SUPPLIERID": 157,
+            "Supplier Name": "Simafex",
+            "Supplier Shortname": "Simafex",
+            "SUPPLIERCODE": "SIMFX"
+        },
+        {
+            "SUPPLIERID": 158,
+            "Supplier Name": "S.I.M.S. s.r.l.",
+            "Supplier Shortname": "S.I.M.S.",
+            "SUPPLIERCODE": "SIMS"
+        },
+        {
+            "SUPPLIERID": 159,
+            "Supplier Name": "Ube Industries, Ltd. - Fine Chemicals Division",
+            "Supplier Shortname": "Ube",
+            "SUPPLIERCODE": "UBE"
+        },
+        {
+            "SUPPLIERID": 160,
+            "Supplier Name": "Ashwood Chemicals Ltd.",
+            "Supplier Shortname": "Ashwood",
+            "SUPPLIERCODE": "ASHW"
+        },
+        {
+            "SUPPLIERID": 161,
+            "Supplier Name": "Biddle Sawyer Corporation",
+            "Supplier Shortname": "Biddle Sawyer",
+            "SUPPLIERCODE": "BIDL"
+        },
+        {
+            "SUPPLIERID": 767,
+            "Supplier Name": "ChemBridge Corporation Screening Compounds",
+            "Supplier Shortname": "ChemBridge SC",
+            "SUPPLIERCODE": "chemS"
+        },
+        {
+            "SUPPLIERID": 769,
+            "Supplier Name": "Arza Bioscience Limited",
+            "Supplier Shortname": "ArZa Bio",
+            "SUPPLIERCODE": "ArZa"
+        },
+        {
+            "SUPPLIERID": 163,
+            "Supplier Name": "Deepwater Chemicals",
+            "Supplier Shortname": "Deepwater",
+            "SUPPLIERCODE": "DPWTR"
+        },
+        {
+            "SUPPLIERID": 164,
+            "Supplier Name": "Expansia S.A.",
+            "Supplier Shortname": "Expansia",
+            "SUPPLIERCODE": "EXPNS"
+        },
+        {
+            "SUPPLIERID": 165,
+            "Supplier Name": "F2 Chemicals Ltd.",
+            "Supplier Shortname": "F2",
+            "SUPPLIERCODE": "FTWO"
+        },
+        {
+            "SUPPLIERID": 166,
+            "Supplier Name": "Gaylord Chemical Corporation",
+            "Supplier Shortname": "Gaylord",
+            "SUPPLIERCODE": "GALRD"
+        },
+        {
+            "SUPPLIERID": 167,
+            "Supplier Name": "George Uhe Company, Inc.",
+            "Supplier Shortname": "George Uhe",
+            "SUPPLIERCODE": "GUHE"
+        },
+        {
+            "SUPPLIERID": 168,
+            "Supplier Name": "Kaden Biochemicals GmbH",
+            "Supplier Shortname": "Kaden",
+            "SUPPLIERCODE": "KADEN"
+        },
+        {
+            "SUPPLIERID": 770,
+            "Supplier Name": "R&S Chemicals, Inc.",
+            "Supplier Shortname": "R&S Chemicals",
+            "SUPPLIERCODE": "R&S"
+        },
+        {
+            "SUPPLIERID": 751,
+            "Supplier Name": "Roche",
+            "Supplier Shortname": "Roche",
+            "SUPPLIERCODE": "Roche"
+        },
+        {
+            "SUPPLIERID": 753,
+            "Supplier Name": "United States Pharmacopeia (SA brand)",
+            "Supplier Shortname": "USP",
+            "SUPPLIERCODE": "USP"
+        },
+        {
+            "SUPPLIERID": 758,
+            "Supplier Name": "Acadechem Company Limited",
+            "Supplier Shortname": "Acadechem",
+            "SUPPLIERCODE": "Acade"
+        },
+        {
+            "SUPPLIERID": 762,
+            "Supplier Name": "Cymtek Laboratories, Limited",
+            "Supplier Shortname": "Cymtek",
+            "SUPPLIERCODE": "Cymte"
+        },
+        {
+            "SUPPLIERID": 763,
+            "Supplier Name": "Absolute Chiral",
+            "Supplier Shortname": "Absolute Chiral",
+            "SUPPLIERCODE": "Absol"
+        },
+        {
+            "SUPPLIERID": 764,
+            "Supplier Name": "Nanjing Raymon Biotech Co., Ltd",
+            "Supplier Shortname": "Nanjing Raymon",
+            "SUPPLIERCODE": "Nanji"
+        },
+        {
+            "SUPPLIERID": 766,
+            "Supplier Name": "Key Organics Bionet Combined-Screening-Fragments",
+            "Supplier Shortname": "Keyorganics",
+            "SUPPLIERCODE": "Keyor"
+        },
+        {
+            "SUPPLIERID": 774,
+            "Supplier Name": "Apollo Scientific Ltd (Support Research Library)",
+            "Supplier Shortname": "Apollo Library",
+            "SUPPLIERCODE": "APSRL"
+        },
+        {
+            "SUPPLIERID": 775,
+            "Supplier Name": "Aronis",
+            "Supplier Shortname": "Aronis",
+            "SUPPLIERCODE": "Aron"
+        },
+        {
+            "SUPPLIERID": 169,
+            "Supplier Name": "Kaneka Corporation - Fine Chemicals Division",
+            "Supplier Shortname": "Kaneka",
+            "SUPPLIERCODE": "KANKA"
+        },
+        {
+            "SUPPLIERID": 170,
+            "Supplier Name": "Chemtec Leuna - Specialty Chemicals and Fine Chemicals",
+            "Supplier Shortname": "Chemtec Leuna",
+            "SUPPLIERCODE": "CHMTK"
+        },
+        {
+            "SUPPLIERID": 171,
+            "Supplier Name": "Tyger Scientific Inc.",
+            "Supplier Shortname": "Tyger",
+            "SUPPLIERCODE": "TYGER"
+        },
+        {
+            "SUPPLIERID": 172,
+            "Supplier Name": "Diagnostic Chemicals Limited",
+            "Supplier Shortname": "Diagnostic Chem.",
+            "SUPPLIERCODE": "DCL"
+        },
+        {
+            "SUPPLIERID": 173,
+            "Supplier Name": "Esprit Chemical Company",
+            "Supplier Shortname": "Esprit",
+            "SUPPLIERCODE": "ESPRT"
+        },
+        {
+            "SUPPLIERID": 174,
+            "Supplier Name": "Indofine Chemical Company, Inc.",
+            "Supplier Shortname": "Indofine",
+            "SUPPLIERCODE": "INDFN"
+        },
+        {
+            "SUPPLIERID": 175,
+            "Supplier Name": "Isochem , ChayseChem (NA distributor)",
+            "Supplier Shortname": "Isochem",
+            "SUPPLIERCODE": "ISOCH"
+        },
+        {
+            "SUPPLIERID": 176,
+            "Supplier Name": "Lonza Ltd.",
+            "Supplier Shortname": "Lonza",
+            "SUPPLIERCODE": "LONZA"
+        },
+        {
+            "SUPPLIERID": 177,
+            "Supplier Name": "Optima Chemical Group LLC",
+            "Supplier Shortname": "Optima",
+            "SUPPLIERCODE": "OPTMA"
+        },
+        {
+            "SUPPLIERID": 178,
+            "Supplier Name": "SNPE Chemicals, Groupe SNPE",
+            "Supplier Shortname": "SNPE",
+            "SUPPLIERCODE": "SNPE"
+        },
+        {
+            "SUPPLIERID": 179,
+            "Supplier Name": "Syntai Chemicals & Pharmaceuticals, Ltd.",
+            "Supplier Shortname": "Syntai",
+            "SUPPLIERCODE": "STNTI"
+        },
+        {
+            "SUPPLIERID": 180,
+            "Supplier Name": "Vis Farmaceutici SpA",
+            "Supplier Shortname": "Vis",
+            "SUPPLIERCODE": "VIS"
+        },
+        {
+            "SUPPLIERID": 181,
+            "Supplier Name": "Dishman USA",
+            "Supplier Shortname": "Dishman",
+            "SUPPLIERCODE": "DSHMN"
+        },
+        {
+            "SUPPLIERID": 182,
+            "Supplier Name": "Eastman Chemical Company",
+            "Supplier Shortname": "Eastman",
+            "SUPPLIERCODE": "EASTM"
+        },
+        {
+            "SUPPLIERID": 183,
+            "Supplier Name": "Far Research",
+            "Supplier Shortname": "Far",
+            "SUPPLIERCODE": "FAR"
+        },
+        {
+            "SUPPLIERID": 184,
+            "Supplier Name": "Hokko Chemical Industry Co., Ltd. - Fine Chemicals Division",
+            "Supplier Shortname": "Hokko",
+            "SUPPLIERCODE": "HOKKO"
+        },
+        {
+            "SUPPLIERID": 185,
+            "Supplier Name": "Industria Chimica Milanese S.p.A.",
+            "Supplier Shortname": "IC Milan",
+            "SUPPLIERCODE": "ICMIL"
+        },
+        {
+            "SUPPLIERID": 186,
+            "Supplier Name": "Nihon Nohyaku Co., Ltd.",
+            "Supplier Shortname": "Nihon Nohyaku",
+            "SUPPLIERCODE": "NIHON"
+        },
+        {
+            "SUPPLIERID": 187,
+            "Supplier Name": "Orgasynth",
+            "Supplier Shortname": "Orgasynth",
+            "SUPPLIERCODE": "ORGSY"
+        },
+        {
+            "SUPPLIERID": 188,
+            "Supplier Name": "Parish Chemical Company",
+            "Supplier Shortname": "Parish",
+            "SUPPLIERCODE": "PARSH"
+        },
+        {
+            "SUPPLIERID": 190,
+            "Supplier Name": "Sanochemia Pharmazeutika AG",
+            "Supplier Shortname": "Sanochemia",
+            "SUPPLIERCODE": "SANCH"
+        },
+        {
+            "SUPPLIERID": 191,
+            "Supplier Name": "SK Energy and Chemical, Inc.",
+            "Supplier Shortname": "SK Energy",
+            "SUPPLIERCODE": "SKECH"
+        },
+        {
+            "SUPPLIERID": 192,
+            "Supplier Name": "Chem-Impex International, Inc.",
+            "Supplier Shortname": "Chem-Impex",
+            "SUPPLIERCODE": "CIMPX"
+        },
+        {
+            "SUPPLIERID": 193,
+            "Supplier Name": "China National Chemical Construction Corporation",
+            "Supplier Shortname": "CNCCC",
+            "SUPPLIERCODE": "CNCCC"
+        },
+        {
+            "SUPPLIERID": 194,
+            "Supplier Name": "Coalite Chemicals",
+            "Supplier Shortname": "Coalite",
+            "SUPPLIERCODE": "COLIT"
+        },
+        {
+            "SUPPLIERID": 195,
+            "Supplier Name": "Genzyme Pharmaceuticals",
+            "Supplier Shortname": "Genzyme",
+            "SUPPLIERCODE": "GNZYM"
+        },
+        {
+            "SUPPLIERID": 196,
+            "Supplier Name": "Inabata America Corp.",
+            "Supplier Shortname": "Inabata",
+            "SUPPLIERCODE": "INABT"
+        },
+        {
+            "SUPPLIERID": 197,
+            "Supplier Name": "Nichimen America Inc.",
+            "Supplier Shortname": "Nichimen",
+            "SUPPLIERCODE": "NICHM"
+        },
+        {
+            "SUPPLIERID": 198,
+            "Supplier Name": "Tosoh Corporation",
+            "Supplier Shortname": "Tosoh",
+            "SUPPLIERCODE": "TOSOH"
+        },
+        {
+            "SUPPLIERID": 199,
+            "Supplier Name": "Wychem Limited",
+            "Supplier Shortname": "Wychem",
+            "SUPPLIERCODE": "WYCHM"
+        },
+        {
+            "SUPPLIERID": 200,
+            "Supplier Name": "Exchem Organics",
+            "Supplier Shortname": "Exchem",
+            "SUPPLIERCODE": "EXCHM"
+        },
+        {
+            "SUPPLIERID": 201,
+            "Supplier Name": "Koei Chemical Company, Ltd",
+            "Supplier Shortname": "Koei",
+            "SUPPLIERCODE": "KOEI"
+        },
+        {
+            "SUPPLIERID": 202,
+            "Supplier Name": "Mitchell Cotts Chemicals",
+            "Supplier Shortname": "Mitchell Cotts",
+            "SUPPLIERCODE": "MCCHM"
+        },
+        {
+            "SUPPLIERID": 203,
+            "Supplier Name": "Nippoh Chemicals Co., Ltd.",
+            "Supplier Shortname": "Nippoh",
+            "SUPPLIERCODE": "NIPPO"
+        },
+        {
+            "SUPPLIERID": 204,
+            "Supplier Name": "Palindent Organic Intermediates",
+            "Supplier Shortname": "Palindent",
+            "SUPPLIERCODE": "PALDN"
+        },
+        {
+            "SUPPLIERID": 205,
+            "Supplier Name": "Phoenix Chemicals",
+            "Supplier Shortname": "Phoenix",
+            "SUPPLIERCODE": "PHONX"
+        },
+        {
+            "SUPPLIERID": 206,
+            "Supplier Name": "Relax Ltd.",
+            "Supplier Shortname": "Relax",
+            "SUPPLIERCODE": "RELAX"
+        },
+        {
+            "SUPPLIERID": 207,
+            "Supplier Name": "American Radiolabeled Chemicals, Inc.",
+            "Supplier Shortname": "ARC",
+            "SUPPLIERCODE": "ARC"
+        },
+        {
+            "SUPPLIERID": 208,
+            "Supplier Name": "Marker Gene Technologies, Inc",
+            "Supplier Shortname": "Marker Gene",
+            "SUPPLIERCODE": "MGT"
+        },
+        {
+            "SUPPLIERID": 209,
+            "Supplier Name": "Spherotech, Inc.",
+            "Supplier Shortname": "Spherotech",
+            "SUPPLIERCODE": "SPHTK"
+        },
+        {
+            "SUPPLIERID": 211,
+            "Supplier Name": "Moravek Biochemicals",
+            "Supplier Shortname": "Moravek",
+            "SUPPLIERCODE": "MORAV"
+        },
+        {
+            "SUPPLIERID": 212,
+            "Supplier Name": "De Voit Associates",
+            "Supplier Shortname": "De Voit",
+            "SUPPLIERCODE": "DVOIT"
+        },
+        {
+            "SUPPLIERID": 213,
+            "Supplier Name": "Strem Chemicals, Inc.",
+            "Supplier Shortname": "Strem",
+            "SUPPLIERCODE": "STREM"
+        },
+        {
+            "SUPPLIERID": 214,
+            "Supplier Name": "Central Glass Co. Ltd.- Fine Chemical Department",
+            "Supplier Shortname": "Central Glass",
+            "SUPPLIERCODE": "CGLAS"
+        },
+        {
+            "SUPPLIERID": 215,
+            "Supplier Name": "Chemisphere Limited",
+            "Supplier Shortname": "Chemisphere",
+            "SUPPLIERCODE": "CHMSP"
+        },
+        {
+            "SUPPLIERID": 216,
+            "Supplier Name": "CreaNova, Inc. (Formerly Hüls America, Inc.)",
+            "Supplier Shortname": "CreaNova",
+            "SUPPLIERCODE": "CREAN"
+        },
+        {
+            "SUPPLIERID": 217,
+            "Supplier Name": "Fine Chemicals Corporation (PTY) Ltd.",
+            "Supplier Shortname": "Fine Chemicals",
+            "SUPPLIERCODE": "FCHM"
+        },
+        {
+            "SUPPLIERID": 218,
+            "Supplier Name": "Dixie Chemical Company, Inc.",
+            "Supplier Shortname": "Dixie",
+            "SUPPLIERCODE": "DIXIE"
+        },
+        {
+            "SUPPLIERID": 219,
+            "Supplier Name": "H&S Chemical Co. Inc.",
+            "Supplier Shortname": "H&S",
+            "SUPPLIERCODE": "HSCHM"
+        },
+        {
+            "SUPPLIERID": 220,
+            "Supplier Name": "PepTech Corporation",
+            "Supplier Shortname": "PepTech",
+            "SUPPLIERCODE": "PEPTK"
+        },
+        {
+            "SUPPLIERID": 221,
+            "Supplier Name": "Pharmco Products Inc.",
+            "Supplier Shortname": "Pharmco",
+            "SUPPLIERCODE": "PRMCO"
+        },
+        {
+            "SUPPLIERID": 223,
+            "Supplier Name": "Sanfur USA, Inc.",
+            "Supplier Shortname": "Sanfur",
+            "SUPPLIERCODE": "SANFR"
+        },
+        {
+            "SUPPLIERID": 224,
+            "Supplier Name": "Acros Organics - USA",
+            "Supplier Shortname": "Acros - USA",
+            "SUPPLIERCODE": "ACRU"
+        },
+        {
+            "SUPPLIERID": 765,
+            "Supplier Name": "SUZHOU SINOERA CHEM CO., LTD",
+            "Supplier Shortname": "Sinora",
+            "SUPPLIERCODE": "Sinor"
+        },
+        {
+            "SUPPLIERID": 408,
+            "Supplier Name": "J.H. Calo Company",
+            "Supplier Shortname": "J.H. Calo Company",
+            "SUPPLIERCODE": "JHCAL"
+        },
+        {
+            "SUPPLIERID": 409,
+            "Supplier Name": "J. P. Pharma-Chem Industries",
+            "Supplier Shortname": "J. P. Pharma-Chem",
+            "SUPPLIERCODE": "JPPCM"
+        },
+        {
+            "SUPPLIERID": 410,
+            "Supplier Name": "Novasyn Organics Pvt. Ltd.",
+            "Supplier Shortname": "Novasyn Organics",
+            "SUPPLIERCODE": "NVSYN"
+        },
+        {
+            "SUPPLIERID": 411,
+            "Supplier Name": "Chevron Phillips Chemical Company LLC",
+            "Supplier Shortname": "Chevron Phillips",
+            "SUPPLIERCODE": "CVPHL"
+        },
+        {
+            "SUPPLIERID": 412,
+            "Supplier Name": "Chiracon GmbH",
+            "Supplier Shortname": "Chiracon GmbH",
+            "SUPPLIERCODE": "CGMBH"
+        },
+        {
+            "SUPPLIERID": 413,
+            "Supplier Name": "Panchim",
+            "Supplier Shortname": "Panchim",
+            "SUPPLIERCODE": "PNCHM"
+        },
+        {
+            "SUPPLIERID": 414,
+            "Supplier Name": "Latoxan",
+            "Supplier Shortname": "Latoxan",
+            "SUPPLIERCODE": "LATXN"
+        },
+        {
+            "SUPPLIERID": 415,
+            "Supplier Name": "Lansdowne Chemicals PLC",
+            "Supplier Shortname": "Lansdowne Chemicals",
+            "SUPPLIERCODE": "LNSDN"
+        },
+        {
+            "SUPPLIERID": 416,
+            "Supplier Name": "ArboNova Oy Ab",
+            "Supplier Shortname": "ArboNova",
+            "SUPPLIERCODE": "ARBNO"
+        },
+        {
+            "SUPPLIERID": 417,
+            "Supplier Name": "Sinon Corporation",
+            "Supplier Shortname": "Sinon Corporation",
+            "SUPPLIERCODE": "SINON"
+        },
+        {
+            "SUPPLIERID": 418,
+            "Supplier Name": "Cambridge Isotope Labs",
+            "Supplier Shortname": "Cambridge Isotope",
+            "SUPPLIERCODE": "CISOL"
+        },
+        {
+            "SUPPLIERID": 419,
+            "Supplier Name": "Novabiochem (EMD Biosciences, Inc.)",
+            "Supplier Shortname": "Novabiochem",
+            "SUPPLIERCODE": "NOVBI"
+        },
+        {
+            "SUPPLIERID": 420,
+            "Supplier Name": "Polymer Laboratories Ltd",
+            "Supplier Shortname": "Polymer Labs",
+            "SUPPLIERCODE": "POLYM"
+        },
+        {
+            "SUPPLIERID": 421,
+            "Supplier Name": "Tratamientos Guadalquivir S.A. (TRAGUSA)",
+            "Supplier Shortname": "TRAGUSA",
+            "SUPPLIERCODE": "TRAGU"
+        },
+        {
+            "SUPPLIERID": 422,
+            "Supplier Name": "IoLiTec GmbH & Co KG",
+            "Supplier Shortname": "IoLiTec GmbH",
+            "SUPPLIERCODE": "IOLTC"
+        },
+        {
+            "SUPPLIERID": 423,
+            "Supplier Name": "Guangzhou Topwork International Co. Ltd.",
+            "Supplier Shortname": "Guangzhou Topwork",
+            "SUPPLIERCODE": "GZKTW"
+        },
+        {
+            "SUPPLIERID": 424,
+            "Supplier Name": "Elkimia Inc.",
+            "Supplier Shortname": "Elkimia Inc.",
+            "SUPPLIERCODE": "ELKIM"
+        },
+        {
+            "SUPPLIERID": 425,
+            "Supplier Name": "Eastar Chemical Corporation",
+            "Supplier Shortname": "Eastar Chemical",
+            "SUPPLIERCODE": "EASTA"
+        },
+        {
+            "SUPPLIERID": 426,
+            "Supplier Name": "Cambridge Major Laboratories, Inc.",
+            "Supplier Shortname": "Cambridge Major",
+            "SUPPLIERCODE": "CMLAB"
+        },
+        {
+            "SUPPLIERID": 427,
+            "Supplier Name": "ABSCO Ltd",
+            "Supplier Shortname": "ABSCO Ltd",
+            "SUPPLIERCODE": "ABSCO"
+        },
+        {
+            "SUPPLIERID": 428,
+            "Supplier Name": "Apollo Scientific Ltd (Fluorochemicals)",
+            "Supplier Shortname": "Apollo Fluorochem",
+            "SUPPLIERCODE": "APFLU"
+        }
+    ]
+}
