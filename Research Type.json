@@ -1,0 +1,26 @@
+[
+ {
+   "Research Type": "Trait Development",
+   "Description": "Identifying and exploiting relevant genetic variation for a trait."
+ },
+ {
+   "Research Type": "Seed product development",
+   "Description": "Development of new or improved seed production or treatment protocols or processes, new packaging or product forms."
+ },
+ {
+   "Research Type": "Technical resource development",
+   "Description": "Desired technology, tools and protocols that aim to facilitate, improve or replace breeding, production or research processes."
+ },
+ {
+   "Research Type": "Knowledge development",
+   "Description": "Knowledge building projects that aim to improve/ generate knowledge on selected topics, including proof-of-concept feasibility studies."
+ },
+ {
+   "Research Type": "Process improvements",
+   "Description": "Improvements of internal processes."
+ },
+ {
+   "Research Type": "Basic research",
+   "Description": "Gene-regulatory networks and key regulators on selected themes (high risk, high impact)."
+ }
+]
