@@ -1,6 +1,14 @@
 {
     "data": [
         {
+            "Project Code": "LC60038",
+            "Project Name/ Brief Description": "RIPK1 Inhibition",
+            "Full Description": "Study of RIPK1 Inhibition being developed for the treatment of autoimmune and inflammatory disorders",
+            "Owner": "Gernt Zech",
+            "Internal Project": "YES",
+            "Status": "ONGOING"
+        },
+        {
             "Project Code": 7387,
             "Project Name/ Brief Description": "Human Microbiome",
             "Full Description": "Study of microbial communities that life in and on our bodies and the role they play in disease",
