@@ -1,6 +1,22 @@
 {
     "data": [
         {
+            "Project Code": "CROA9991",
+            "Project Name/ Brief Description": "Collaboration Project with CRO A",
+            "Full Description": "Synthesis of rare small molecules with CRO A",
+            "Owner": "Robert Dawkins",
+            "Internal Project": "NO",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": "CROB7771",
+            "Project Name/ Brief Description": "Collaboration Project with CRO B",
+            "Full Description": "Assay Testing of Steroid derivatives with CRO B",
+            "Owner": "Robert Dawkins",
+            "Internal Project": "NO",
+            "Status": "ONGOING"
+        },
+        {
             "Project Code": "LC60038",
             "Project Name/ Brief Description": "RIPK1 Inhibition",
             "Full Description": "Study of RIPK1 Inhibition being developed for the treatment of autoimmune and inflammatory disorders",
@@ -226,6 +242,6 @@
         }
     ],
     "paging": {
-        "total": 27
+        "total": 29
     }
 }
